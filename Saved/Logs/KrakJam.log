@@ -10174,3 +10174,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.28-21.05.25:611][766]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test01E15A0C54426E759ACEF696864662250E.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap'
 [2021.01.28-21.05.25:625][766]AssetCheck: New page: Asset Save: Test01
 [2021.01.28-21.05.25:626][766]LogContentValidation: Display: Validating World /Game/Levels/Maps/Test01.Test01
+[2021.01.28-21.07.27:432][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.28-21.07.29:368][192]LogSlate: Window 'Save Content' being destroyed
+[2021.01.28-21.07.30:060][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/MainMenu" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.28-21.07.30:078][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.28-21.07.30:081][271]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/MainMenu56EA694D46C73A3D32A0CD871FC8D419.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/MainMenu.umap'
+[2021.01.28-21.07.30:082][271]LogFileHelpers: Saving map 'MainMenu' took 0.022
+[2021.01.28-21.07.30:091][271]AssetCheck: New page: Asset Save: MainMenu
+[2021.01.28-21.07.30:091][271]LogContentValidation: Display: Validating World /Game/Levels/Maps/MainMenu.MainMenu
+[2021.01.28-21.07.32:099][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.28-21.07.34:550][506]LogSlate: Window 'Save Content' being destroyed
+[2021.01.28-21.17.37:368][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.28-21.17.37:372][215]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/Test01' took 0.023
+[2021.01.28-21.17.37:372][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/sumFlames] ([1] browsable assets)...
+[2021.01.28-21.17.37:372][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/sumFlames]
+[2021.01.28-21.17.37:372][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/sumFlames" FILE="G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Blueprints/sumFlames_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.01.28-21.17.37:381][215]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/sumFlames_Auto469D950204A5453DDFB8E469AE36773E0.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Blueprints/sumFlames_Auto4.uasset'
+[2021.01.28-21.17.37:381][215]LogFileHelpers: Auto-saving content packages took 0.010
+[2021.01.28-21.24.05:420][364]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.28-21.24.05:420][364]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
