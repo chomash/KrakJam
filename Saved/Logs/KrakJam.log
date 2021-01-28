@@ -1054,3 +1054,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.28-19.32.11:453][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.28-19.32.11:455][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2021.01.28-19.32.11:473][665]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.28-19.33.01:583][906]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.28-19.34.18:498][ 29]BlueprintLog: New page: Compile PlayerCharacter
+[2021.01.28-19.34.18:532][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.01.28-19.34.18:995][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/PlayerCharacter" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset" SILENT=true
+[2021.01.28-19.34.19:014][ 80]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PlayerCharacter037C437B4E95F60EC93F64A798EC8174.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset'
+[2021.01.28-19.34.19:023][ 80]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.01.28-19.34.19:023][ 80]LogContentValidation: Display: Validating Blueprint /Game/Character/PlayerCharacter.PlayerCharacter
+[2021.01.28-19.36.36:559][275]BlueprintLog: New page: Compile PlayerCharacter
+[2021.01.28-19.36.36:594][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.01.28-19.36.36:879][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/PlayerCharacter" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset" SILENT=true
+[2021.01.28-19.36.36:900][303]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PlayerCharacter653955BB471169069D9D5E8DEF04A760.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset'
+[2021.01.28-19.36.36:909][303]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.01.28-19.36.36:909][303]LogContentValidation: Display: Validating Blueprint /Game/Character/PlayerCharacter.PlayerCharacter
+[2021.01.28-19.36.48:938][720]BlueprintLog: New page: Compile PlayerHUD
+[2021.01.28-19.36.48:965][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.01.28-19.36.49:224][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/PlayerHUD" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerHUD.uasset" SILENT=true
+[2021.01.28-19.36.49:227][746]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PlayerHUD441D9D1A4389D02F3077328AB674AE77.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerHUD.uasset'
+[2021.01.28-19.36.49:236][746]AssetCheck: New page: Asset Save: PlayerHUD
+[2021.01.28-19.36.49:236][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/Character/PlayerHUD.PlayerHUD
+[2021.01.28-19.36.57:901][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.01.28-19.36.57:913][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/PlayerCharacter" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset" SILENT=true
+[2021.01.28-19.36.57:942][772]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PlayerCharacter011FA88341CDD5ACD91B02AA72B617DB.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Character/PlayerCharacter.uasset'
+[2021.01.28-19.36.57:951][772]AssetCheck: New page: Asset Save: PlayerCharacter
+[2021.01.28-19.36.57:951][772]LogContentValidation: Display: Validating Blueprint /Game/Character/PlayerCharacter.PlayerCharacter
+[2021.01.28-19.36.58:836][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
