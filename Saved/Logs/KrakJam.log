@@ -1177,3 +1177,771 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-04.15.03:325][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2021.01.31-04.15.03:325][279]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2021.01.31-04.15.03:325][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.15.40:574][205]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne4)
+[2021.01.31-04.15.41:424][306]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne3)
+[2021.01.31-04.15.42:365][418]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne2)
+[2021.01.31-04.15.43:490][552]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne)
+[2021.01.31-04.15.44:623][687]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne5)
+[2021.01.31-04.15.45:666][811]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne3)
+[2021.01.31-04.15.46:932][962]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne2)
+[2021.01.31-04.15.47:881][ 75]LogEditorViewport: Clicking on Actor (LMB): CompleteLevel1_C (CompleteLevelOne4)
+[2021.01.31-04.15.48:922][199]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (5_drzewa__Sprite)
+[2021.01.31-04.15.51:167][464]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.15.51:175][464]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.31-04.15.51:175][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel1 before play...
+[2021.01.31-04.15.51:191][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel2 before play...
+[2021.01.31-04.15.51:193][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel3 before play...
+[2021.01.31-04.15.51:195][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel4 before play...
+[2021.01.31-04.15.51:197][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel5 before play...
+[2021.01.31-04.15.51:199][464]LogPlayLevel: [PlayLevel] Compiling CompleteLevel6 before play...
+[2021.01.31-04.15.51:201][464]LogPlayLevel: [PlayLevel] Compiling lvl_complete_2 before play...
+[2021.01.31-04.15.51:211][464]LogPlayLevel: [PlayLevel] Compiling lvl_complete_3 before play...
+[2021.01.31-04.15.51:222][464]LogPlayLevel: [PlayLevel] Compiling lvl_complete_4 before play...
+[2021.01.31-04.15.51:298][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.31-04.15.51:304][464]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (9 blueprints)
+[2021.01.31-04.15.51:304][464]PIE: New page: PIE session: Test01 (31 sty 2021, 06:15:51)
+[2021.01.31-04.15.51:304][464]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.15.51:306][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2021.01.31-04.15.51:307][464]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.15.51:307][464]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2021.01.31-04.15.51:307][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002962s)
+[2021.01.31-04.15.51:358][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.01.31-04.15.51:358][464]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.15.51:358][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.15.51:358][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.15.51:359][464]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.15.51:359][464]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.15.51:361][464]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.15.51:372][464]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.15.51:372][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.15.51:372][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.15.51:372][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.15.51:373][464]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.15.51:373][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.15.51:373][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.15.51:382][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.15.51:382][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.15.51:382][464]LogInit: FAudioDevice initialized.
+[2021.01.31-04.15.51:383][464]LogAudio: Display: Audio Device (ID: 4) registered with world 'Test01'.
+[2021.01.31-04.15.51:406][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.15.51:406][464]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.15.51:407][464]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.15.51
+[2021.01.31-04.15.51:407][464]LogWorld: Bringing up level for play took: 0.001128
+[2021.01.31-04.15.51:407][464]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.31-04.15.51:411][464]PIE: Server logged in
+[2021.01.31-04.15.51:412][464]PIE: Play in editor total start time 0,239 seconds.
+[2021.01.31-04.15.57:078][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.15.57:078][114]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.15.57:079][114]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.15.57:081][114]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.15.57:082][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.15.57:085][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.15.57:098][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.15.57:108][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.15.57:108][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.15.57:121][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.01.31-04.15.57:147][115]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.31-04.16.13:371][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-04.16.20:861][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.31-04.16.22:115][744]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.31-04.16.22:150][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.01.31-04.18.42:749][633]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Pulpit\KrakJam\stars\symbol_pies.png)
+[2021.01.31-04.18.42:761][633]LogTexture: Display: Building textures: symbol_pies (BGRA8, 1197X1417)
+[2021.01.31-04.18.42:787][633]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Pulpit\KrakJam\stars\symbol_skorpion.png)
+[2021.01.31-04.18.42:802][633]LogTexture: Display: Building textures: symbol_skorpion (BGRA8, 1039X1300)
+[2021.01.31-04.19.53:228][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.01.31-04.19.53:237][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Test01" FILE="G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Test01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.31-04.19.53:247][946]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test01_Auto1AF734E85402B85294490F99B2F899B45.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Test01_Auto1.umap'
+[2021.01.31-04.19.53:250][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/Test01' took 0.034
+[2021.01.31-04.19.53:250][946]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2021.01.31-04.19.53:250][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/symbol_pies] ([1] browsable assets)...
+[2021.01.31-04.19.53:254][946]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/symbol_pies.symbol_pies]
+[2021.01.31-04.19.53:254][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/symbol_pies]
+[2021.01.31-04.19.53:254][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/symbol_pies" FILE="G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Assets/symbol_pies_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-04.19.53:259][946]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/symbol_pies_Auto13D0FC1E94A7B0A6E0F8D37B3BA939BE3.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Assets/symbol_pies_Auto1.uasset'
+[2021.01.31-04.19.53:260][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/symbol_skorpion] ([1] browsable assets)...
+[2021.01.31-04.19.53:263][946]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/symbol_skorpion.symbol_skorpion]
+[2021.01.31-04.19.53:263][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/symbol_skorpion]
+[2021.01.31-04.19.53:263][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/symbol_skorpion" FILE="G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Assets/symbol_skorpion_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.01.31-04.19.53:267][946]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/symbol_skorpion_Auto1CCFE91014269D68CC3C1398A7BB687D4.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Saved/Autosaves/Game/Assets/symbol_skorpion_Auto1.uasset'
+[2021.01.31-04.19.53:268][946]LogFileHelpers: Auto-saving content packages took 0.018
+[2021.01.31-04.20.17:980][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.31-04.20.31:954][575]LogMetaData: Removing '/Game/Blueprints/NPC/tutorial.SKEL_tutorial_C' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.20.31:954][575]LogMetaData: Removing '/Game/Blueprints/NPC/tutorial.tutorial_C' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.20.31:954][575]LogMetaData: Removing '/Game/Blueprints/NPC/tutorial.SKEL_tutorial_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.20.31:954][575]LogMetaData: Removing '/Game/Blueprints/NPC/tutorial.SKEL_tutorial_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.20.31:954][575]LogMetaData: Removing '/Game/Blueprints/NPC/tutorial.SKEL_tutorial_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.20.31:966][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.20.31:976][575]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorial391921A6428BAA85E87D8195416C5F3B.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.20.32:013][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.31-04.20.32:031][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.31-04.20.32:039][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.31-04.20.32:062][575]AssetCheck: New page: Asset Save: tutorial
+[2021.01.31-04.20.32:062][575]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.20.33:721][773]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.21.17:514][858]BlueprintLog: New page: Compile tutorial
+[2021.01.31-04.21.17:535][858]LogBlueprint: Error: [AssetLog] G:\Dokumenty\GitHub\KrakJam\Content\Blueprints\NPC\tutorial.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.01.31-04.21.17:547][858]LogBlueprint: Error: [AssetLog] G:\Dokumenty\GitHub\KrakJam\Content\Blueprints\NPC\tutorial.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.01.31-04.21.17:565][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.31-04.21.17:968][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.21.17:975][903]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorialE476F949408F041D399DA89A4C002756.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.21.17:983][903]AssetCheck: New page: Asset Save: tutorial
+[2021.01.31-04.21.17:983][903]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.21.33:123][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/NPC_Interaction_Master.NPC_Interaction_Master
+[2021.01.31-04.22.06:162][455]BlueprintLog: New page: Compile tutorial
+[2021.01.31-04.22.06:186][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.31-04.22.06:575][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.22.06:582][498]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorialB2905E184AF968C83FB205934591E9E5.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.22.06:593][498]AssetCheck: New page: Asset Save: tutorial
+[2021.01.31-04.22.06:593][498]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.22.15:592][551]BlueprintLog: New page: Compile tutorial
+[2021.01.31-04.22.15:616][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.31-04.22.15:902][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.22.15:910][582]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorial02D309C14D03FB20D4A368AA8D9EFD2E.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.22.15:920][582]AssetCheck: New page: Asset Save: tutorial
+[2021.01.31-04.22.15:920][582]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.22.20:274][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.01.31-04.22.29:938][226]LogMetaData: Removing '/Game/Blueprints/NPC/pies_gonczy.SKEL_pies_gonczy_C' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.22.29:938][226]LogMetaData: Removing '/Game/Blueprints/NPC/pies_gonczy.pies_gonczy_C' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.22.29:938][226]LogMetaData: Removing '/Game/Blueprints/NPC/pies_gonczy.SKEL_pies_gonczy_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.22.29:938][226]LogMetaData: Removing '/Game/Blueprints/NPC/pies_gonczy.SKEL_pies_gonczy_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.22.29:938][226]LogMetaData: Removing '/Game/Blueprints/NPC/pies_gonczy.SKEL_pies_gonczy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/NPC_Interaction_Master1.PackageMetaData'
+[2021.01.31-04.22.29:951][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.22.29:961][226]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczy94F3F74C4CD392EF61E9939C8B36FFA3.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.22.30:006][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.01.31-04.22.30:025][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.01.31-04.22.30:037][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.01.31-04.22.30:059][226]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.22.30:059][226]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.22.31:684][417]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.22.33:643][648]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.22.35:000][804]BlueprintLog: New page: Compile tutorial
+[2021.01.31-04.22.35:024][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.01.31-04.22.35:548][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.22.35:555][863]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorial0E14E71743B710FB5E8B9384D0843688.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.22.35:564][863]AssetCheck: New page: Asset Save: tutorial
+[2021.01.31-04.22.35:564][863]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.22.36:984][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.23.32:849][433]BlueprintLog: New page: Compile pies_gonczy
+[2021.01.31-04.23.32:884][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.31-04.23.33:171][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.23.33:181][460]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczy92F38D414082DBC809407095DE879E16.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.23.33:191][460]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.23.33:191][460]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.23.44:139][625]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.23.44:147][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.23.44:147][625]PIE: New page: PIE session: Test01 (31 sty 2021, 06:23:44)
+[2021.01.31-04.23.44:147][625]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.23.44:149][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2021.01.31-04.23.44:150][625]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.23.44:150][625]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2021.01.31-04.23.44:150][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002758s)
+[2021.01.31-04.23.44:165][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.31-04.23.44:167][625]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.23.44:167][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.23.44:167][625]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.23.44:167][625]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.23.44:170][625]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.23.44:181][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.23.44:181][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.23.44:191][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.23.44:191][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.23.44:191][625]LogInit: FAudioDevice initialized.
+[2021.01.31-04.23.44:191][625]LogAudio: Display: Audio Device (ID: 5) registered with world 'Test01'.
+[2021.01.31-04.23.44:215][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.23.44:216][625]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.23.44:217][625]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.23.44
+[2021.01.31-04.23.44:217][625]LogWorld: Bringing up level for play took: 0.001427
+[2021.01.31-04.23.44:218][625]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.01.31-04.23.44:222][625]PIE: Server logged in
+[2021.01.31-04.23.44:224][625]PIE: Play in editor total start time 0,08 seconds.
+[2021.01.31-04.23.57:079][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.23.57:079][135]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.23.57:079][135]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.23.57:082][135]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.23.57:083][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.23.57:089][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.23.57:096][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.23.57:112][135]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-04.23.57:113][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.23.57:113][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.23.57:127][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.31-04.23.57:169][136]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.31-04.24.12:101][762]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/symbol_pies.symbol_pies
+[2021.01.31-04.24.12:145][762]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.31-04.24.24:326][ 93]LogEditorViewport: Clicking on Actor (LMB): NPC_Interaction_Master_C (NPC_Interaction_Master2)
+[2021.01.31-04.24.25:143][189]Cmd: DELETE
+[2021.01.31-04.24.25:143][189]Cmd: ACTOR DELETE
+[2021.01.31-04.24.25:145][189]LogEditorActor: Deleted Actor: NPC_Interaction_Master_C
+[2021.01.31-04.24.25:183][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.31-04.24.25:184][189]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.01.31-04.24.25:332][206]LogEditorViewport: Clicking on Actor (LMB): pies_gonczy_C (pies_gonczy)
+[2021.01.31-04.24.28:781][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Test01" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-04.24.28:802][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.31-04.24.28:814][594]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test01346468CC4AF71193F99092976AE6C1F7.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap'
+[2021.01.31-04.24.28:833][594]AssetCheck: New page: Asset Save: Test01
+[2021.01.31-04.24.28:833][594]LogContentValidation: Display: Validating World /Game/Levels/Maps/Test01.Test01
+[2021.01.31-04.24.29:712][698]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.24.29:719][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.24.29:719][698]PIE: New page: PIE session: Test01 (31 sty 2021, 06:24:29)
+[2021.01.31-04.24.29:719][698]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.24.29:721][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001940s)
+[2021.01.31-04.24.29:721][698]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.24.29:722][698]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2021.01.31-04.24.29:722][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002613s)
+[2021.01.31-04.24.29:740][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.31-04.24.29:741][698]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.24.29:741][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.24.29:741][698]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.24.29:741][698]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.24.29:744][698]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.24.29:754][698]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.24.29:754][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.24.29:754][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.24.29:754][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.24.29:755][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.24.29:755][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.24.29:755][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.24.29:765][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.24.29:765][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.24.29:765][698]LogInit: FAudioDevice initialized.
+[2021.01.31-04.24.29:765][698]LogAudio: Display: Audio Device (ID: 6) registered with world 'Test01'.
+[2021.01.31-04.24.29:786][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.24.29:786][698]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.24.29:787][698]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.24.29
+[2021.01.31-04.24.29:787][698]LogWorld: Bringing up level for play took: 0.001234
+[2021.01.31-04.24.29:788][698]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.01.31-04.24.29:792][698]PIE: Server logged in
+[2021.01.31-04.24.29:794][698]PIE: Play in editor total start time 0,077 seconds.
+[2021.01.31-04.24.32:831][ 37]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-04.24.33:969][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.24.33:969][168]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.24.33:969][168]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.24.33:972][168]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.24.33:973][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.24.33:983][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.24.33:989][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.24.34:006][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.24.34:007][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.24.34:020][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.01.31-04.24.34:064][169]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.01.31-04.24.49:484][959]BlueprintLog: New page: Compile pies_gonczy
+[2021.01.31-04.24.49:522][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.31-04.24.49:965][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.24.49:975][  5]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczyB5F3DEBF4872BDB6EC7D5686E0BAF555.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.24.49:984][  5]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.24.49:984][  5]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.24.51:316][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.24.51:324][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.24.51:324][155]PIE: New page: PIE session: Test01 (31 sty 2021, 06:24:51)
+[2021.01.31-04.24.51:324][155]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.24.51:326][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2021.01.31-04.24.51:326][155]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.24.51:326][155]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2021.01.31-04.24.51:326][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002669s)
+[2021.01.31-04.24.51:346][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.01.31-04.24.51:347][155]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.24.51:347][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.24.51:347][155]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.24.51:347][155]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.24.51:350][155]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.24.51:360][155]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.24.51:360][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.24.51:360][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.24.51:360][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.24.51:361][155]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.24.51:361][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.24.51:361][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.24.51:370][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.24.51:370][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.24.51:370][155]LogInit: FAudioDevice initialized.
+[2021.01.31-04.24.51:370][155]LogAudio: Display: Audio Device (ID: 7) registered with world 'Test01'.
+[2021.01.31-04.24.51:384][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.24.51:385][155]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.24.51:386][155]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.24.51
+[2021.01.31-04.24.51:386][155]LogWorld: Bringing up level for play took: 0.001176
+[2021.01.31-04.24.51:386][155]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.01.31-04.24.51:391][155]PIE: Server logged in
+[2021.01.31-04.24.51:392][155]PIE: Play in editor total start time 0,071 seconds.
+[2021.01.31-04.25.05:328][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.25.05:328][797]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.25.05:329][797]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.25.05:332][797]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.25.05:332][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.25.05:342][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.25.05:349][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.25.05:366][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-04.25.05:366][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.25.05:367][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.25.05:380][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.31-04.25.05:424][798]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.01.31-04.25.20:423][553]BlueprintLog: New page: Compile pies_gonczy
+[2021.01.31-04.25.20:461][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.31-04.25.20:813][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.25.20:823][589]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczy05DC62984DEC0C3C8B34CD8969CF5C4D.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.25.20:835][589]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.25.20:835][589]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.25.21:810][699]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.25.21:818][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.25.21:818][699]PIE: New page: PIE session: Test01 (31 sty 2021, 06:25:21)
+[2021.01.31-04.25.21:818][699]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.25.21:820][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001987s)
+[2021.01.31-04.25.21:820][699]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.25.21:821][699]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2021.01.31-04.25.21:821][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002678s)
+[2021.01.31-04.25.21:840][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.31-04.25.21:841][699]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.25.21:841][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.25.21:841][699]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.25.21:841][699]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.25.21:843][699]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.25.21:854][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.25.21:854][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.25.21:864][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.25.21:864][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.25.21:864][699]LogInit: FAudioDevice initialized.
+[2021.01.31-04.25.21:864][699]LogAudio: Display: Audio Device (ID: 8) registered with world 'Test01'.
+[2021.01.31-04.25.21:886][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.25.21:886][699]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.25.21:888][699]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.25.21
+[2021.01.31-04.25.21:888][699]LogWorld: Bringing up level for play took: 0.001033
+[2021.01.31-04.25.21:888][699]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.01.31-04.25.21:892][699]PIE: Server logged in
+[2021.01.31-04.25.21:894][699]PIE: Play in editor total start time 0,078 seconds.
+[2021.01.31-04.25.26:069][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.25.26:069][168]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.25.26:069][168]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.25.26:072][168]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.25.26:073][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.25.26:079][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.25.26:086][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.25.26:104][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-04.25.26:104][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.25.26:104][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.25.26:118][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.31-04.25.26:161][169]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.01.31-04.25.52:165][238]BlueprintLog: New page: Compile pies_gonczy
+[2021.01.31-04.25.52:203][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.01.31-04.25.52:586][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.25.52:597][276]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczy5FFFC52E4458E1ED96DAC780906D77B6.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.25.52:606][276]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.25.52:606][276]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.26.04:044][623]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.05:369][778]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.07:976][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.20:346][503]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.23:633][843]BlueprintLog: New page: Compile pies_gonczy
+[2021.01.31-04.26.23:671][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.01.31-04.26.24:104][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/pies_gonczy" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset" SILENT=true
+[2021.01.31-04.26.24:114][887]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/pies_gonczyCDB9BF5449CAE15D966566A9F0B5B7D4.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/pies_gonczy.uasset'
+[2021.01.31-04.26.24:123][887]AssetCheck: New page: Asset Save: pies_gonczy
+[2021.01.31-04.26.24:123][887]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/pies_gonczy.pies_gonczy
+[2021.01.31-04.26.26:587][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.31:522][756]BlueprintLog: New page: Compile tutorial
+[2021.01.31-04.26.31:552][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.31-04.26.38:961][629]LogSlate: Window 'pies_gonczy' being destroyed
+[2021.01.31-04.26.38:969][629]LogSlate: Window 'pies_gonczy' being destroyed
+[2021.01.31-04.26.38:976][629]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.26.38:976][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.26.39:022][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-04.26.39:022][629]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.26.39:022][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.26.39:068][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-04.26.39:068][629]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.26.39:068][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.26.44:172][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.01.31-04.26.44:574][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/pies_gonczy1.pies_gonczy1
+[2021.01.31-04.26.46:413][451]LogSlate: Window 'pies_gonczy1' being destroyed
+[2021.01.31-04.26.46:418][451]LogSlate: Window 'pies_gonczy1' being destroyed
+[2021.01.31-04.26.46:423][451]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.26.46:423][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.26.49:532][818]LogMetaData: Removing '/Game/Blueprints/NPC/PanGrzyb.SKEL_PanGrzyb_C' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.26.49:532][818]LogMetaData: Removing '/Game/Blueprints/NPC/PanGrzyb.PanGrzyb_C' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.26.49:532][818]LogMetaData: Removing '/Game/Blueprints/NPC/PanGrzyb.SKEL_PanGrzyb_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.26.49:532][818]LogMetaData: Removing '/Game/Blueprints/NPC/PanGrzyb.SKEL_PanGrzyb_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.26.49:532][818]LogMetaData: Removing '/Game/Blueprints/NPC/PanGrzyb.SKEL_PanGrzyb_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.26.49:545][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/PanGrzyb" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb.uasset" SILENT=true
+[2021.01.31-04.26.49:555][818]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PanGrzyb890646404DBCD4FB7DB9E5AB4D8B3752.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb.uasset'
+[2021.01.31-04.26.49:618][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.01.31-04.26.49:634][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-04.26.49:643][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-04.26.49:666][818]AssetCheck: New page: Asset Save: PanGrzyb
+[2021.01.31-04.26.49:666][818]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/PanGrzyb.PanGrzyb
+[2021.01.31-04.26.51:238][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/PanGrzyb.PanGrzyb
+[2021.01.31-04.26.53:881][284]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.55:236][442]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.26.56:574][595]BlueprintLog: New page: Compile PanGrzyb
+[2021.01.31-04.26.56:598][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.01.31-04.27.26:211][ 33]BlueprintLog: New page: Compile PanGrzyb
+[2021.01.31-04.27.26:233][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.31-04.27.44:339][906]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.27.44:347][906]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.31-04.27.44:347][906]LogPlayLevel: [PlayLevel] Compiling tutorial before play...
+[2021.01.31-04.27.44:365][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.31-04.27.44:370][906]LogPlayLevel: PlayLevel: Blueprint regeneration took 22 ms (1 blueprints)
+[2021.01.31-04.27.44:370][906]PIE: New page: PIE session: Test01 (31 sty 2021, 06:27:44)
+[2021.01.31-04.27.44:370][906]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.27.44:372][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002042s)
+[2021.01.31-04.27.44:372][906]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.27.44:372][906]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2021.01.31-04.27.44:372][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002730s)
+[2021.01.31-04.27.44:385][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.31-04.27.44:385][906]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.27.44:385][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.27.44:385][906]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.27.44:385][906]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.27.44:389][906]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.27.44:401][906]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.27.44:402][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.27.44:402][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.27.44:402][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.27.44:402][906]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.27.44:402][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.27.44:402][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.27.44:411][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.27.44:411][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.27.44:411][906]LogInit: FAudioDevice initialized.
+[2021.01.31-04.27.44:411][906]LogAudio: Display: Audio Device (ID: 9) registered with world 'Test01'.
+[2021.01.31-04.27.44:431][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.27.44:431][906]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.27.44:432][906]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.27.44
+[2021.01.31-04.27.44:432][906]LogWorld: Bringing up level for play took: 0.001115
+[2021.01.31-04.27.44:433][906]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.01.31-04.27.44:437][906]PIE: Server logged in
+[2021.01.31-04.27.44:439][906]PIE: Play in editor total start time 0,094 seconds.
+[2021.01.31-04.27.46:329][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.27.46:329][ 99]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.27.46:329][ 99]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.27.46:334][ 99]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.27.46:335][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.27.46:340][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.27.46:346][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.27.46:358][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.27.46:359][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.27.46:372][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.31-04.27.46:410][100]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.01.31-04.27.46:945][161]LogEditorViewport: Clicking on Actor (LMB): PanGrzyb_C (PanGrzyb)
+[2021.01.31-04.27.53:255][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Test01" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-04.27.53:268][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.01.31-04.27.53:281][886]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test0136448AE149E0E5278680449D0AA6435E.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap'
+[2021.01.31-04.27.53:299][886]AssetCheck: New page: Asset Save: Test01
+[2021.01.31-04.27.53:299][886]LogContentValidation: Display: Validating World /Game/Levels/Maps/Test01.Test01
+[2021.01.31-04.27.54:001][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.27.54:008][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.27.54:009][965]PIE: New page: PIE session: Test01 (31 sty 2021, 06:27:54)
+[2021.01.31-04.27.54:009][965]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.27.54:011][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002078s)
+[2021.01.31-04.27.54:011][965]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.27.54:011][965]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2021.01.31-04.27.54:011][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002789s)
+[2021.01.31-04.27.54:025][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.31-04.27.54:026][965]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.27.54:026][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.27.54:026][965]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.27.54:026][965]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.27.54:029][965]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.27.54:039][965]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.27.54:039][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.27.54:039][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.27.54:039][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.27.54:040][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.27.54:040][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.27.54:040][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.27.54:049][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.27.54:049][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.27.54:049][965]LogInit: FAudioDevice initialized.
+[2021.01.31-04.27.54:049][965]LogAudio: Display: Audio Device (ID: 10) registered with world 'Test01'.
+[2021.01.31-04.27.54:068][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.27.54:068][965]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.27.54:070][965]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.27.54
+[2021.01.31-04.27.54:070][965]LogWorld: Bringing up level for play took: 0.001280
+[2021.01.31-04.27.54:070][965]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.01.31-04.27.54:075][965]PIE: Server logged in
+[2021.01.31-04.27.54:076][965]PIE: Play in editor total start time 0,07 seconds.
+[2021.01.31-04.28.01:409][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.28.01:409][816]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.28.01:409][816]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.28.01:412][816]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.28.01:412][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.28.01:417][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.28.01:423][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.28.01:435][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.28.01:436][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.28.01:450][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.01.31-04.28.01:489][817]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.01.31-04.28.04:858][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset" SILENT=true
+[2021.01.31-04.28.04:866][131]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorialEDE2349B41154FD65F8609AEAA7AACE0.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial.uasset'
+[2021.01.31-04.28.04:866][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/PanGrzyb" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb.uasset" SILENT=true
+[2021.01.31-04.28.04:876][131]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PanGrzybE2BEDD75446F8C1309ABB2A26746E63C.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb.uasset'
+[2021.01.31-04.28.04:883][131]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.31-04.28.04:883][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial.tutorial
+[2021.01.31-04.28.04:883][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/PanGrzyb.PanGrzyb
+[2021.01.31-04.28.16:076][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.31-04.28.19:672][744]LogMetaData: Removing '/Game/Blueprints/NPC/skorpion.SKEL_skorpion_C' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.28.19:672][744]LogMetaData: Removing '/Game/Blueprints/NPC/skorpion.skorpion_C' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.28.19:672][744]LogMetaData: Removing '/Game/Blueprints/NPC/skorpion.SKEL_skorpion_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.28.19:672][744]LogMetaData: Removing '/Game/Blueprints/NPC/skorpion.SKEL_skorpion_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.28.19:672][744]LogMetaData: Removing '/Game/Blueprints/NPC/skorpion.SKEL_skorpion_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/pies_gonczy1.PackageMetaData'
+[2021.01.31-04.28.19:684][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/skorpion" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset" SILENT=true
+[2021.01.31-04.28.19:695][744]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/skorpion99958CF445B806CA83E64A83FE8E61F2.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset'
+[2021.01.31-04.28.19:739][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.01.31-04.28.19:756][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.31-04.28.19:766][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-04.28.19:791][744]AssetCheck: New page: Asset Save: skorpion
+[2021.01.31-04.28.19:791][744]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/skorpion.skorpion
+[2021.01.31-04.28.19:818][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/skorpion.skorpion
+[2021.01.31-04.28.23:444][143]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.28.24:885][312]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.28.26:153][454]BlueprintLog: New page: Compile skorpion
+[2021.01.31-04.28.26:180][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.31-04.28.26:470][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/skorpion" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset" SILENT=true
+[2021.01.31-04.28.26:480][482]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/skorpionE3829A7047A969D0A37FB88EA1136DD8.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset'
+[2021.01.31-04.28.26:491][482]AssetCheck: New page: Asset Save: skorpion
+[2021.01.31-04.28.26:491][482]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/skorpion.skorpion
+[2021.01.31-04.28.31:123][  2]BlueprintLog: New page: Compile skorpion
+[2021.01.31-04.28.31:148][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.01.31-04.28.34:645][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/skorpion" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset" SILENT=true
+[2021.01.31-04.28.34:655][386]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/skorpionC0C0CAE3436182149A3F8F945615A9B5.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/skorpion.uasset'
+[2021.01.31-04.28.34:668][386]AssetCheck: New page: Asset Save: skorpion
+[2021.01.31-04.28.34:668][386]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/skorpion.skorpion
+[2021.01.31-04.28.36:308][577]LogSlate: Window 'skorpion' being destroyed
+[2021.01.31-04.28.36:312][577]LogSlate: Window 'skorpion' being destroyed
+[2021.01.31-04.28.36:320][577]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.28.36:320][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.28.36:364][577]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-04.28.36:364][577]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.28.36:364][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.28.45:244][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.01.31-04.28.45:641][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/tutorial1.tutorial1
+[2021.01.31-04.28.54:370][137]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.28.59:138][705]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.29.00:138][819]BlueprintLog: New page: Compile tutorial1
+[2021.01.31-04.29.00:162][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.31-04.29.00:443][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/tutorial1" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial1.uasset" SILENT=true
+[2021.01.31-04.29.00:451][847]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/tutorial11FB8242A4B39C6F624879B84A1ACA3B6.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/tutorial1.uasset'
+[2021.01.31-04.29.00:463][847]AssetCheck: New page: Asset Save: tutorial1
+[2021.01.31-04.29.00:463][847]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/tutorial1.tutorial1
+[2021.01.31-04.29.10:633][  5]LogSlate: Window 'tutorial1' being destroyed
+[2021.01.31-04.29.10:638][  5]LogSlate: Window 'tutorial1' being destroyed
+[2021.01.31-04.29.10:642][  5]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.29.10:643][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.29.17:126][774]LogMetaData: Removing '/Game/Blueprints/NPC/ucieka.SKEL_ucieka_C' ref from Metadata '/Game/Blueprints/NPC/tutorial1.PackageMetaData'
+[2021.01.31-04.29.17:126][774]LogMetaData: Removing '/Game/Blueprints/NPC/ucieka.ucieka_C' ref from Metadata '/Game/Blueprints/NPC/tutorial1.PackageMetaData'
+[2021.01.31-04.29.17:126][774]LogMetaData: Removing '/Game/Blueprints/NPC/ucieka.SKEL_ucieka_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/tutorial1.PackageMetaData'
+[2021.01.31-04.29.17:126][774]LogMetaData: Removing '/Game/Blueprints/NPC/ucieka.SKEL_ucieka_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/tutorial1.PackageMetaData'
+[2021.01.31-04.29.17:138][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/ucieka" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/ucieka.uasset" SILENT=true
+[2021.01.31-04.29.17:145][774]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/ucieka3D21A80A408692A64D86FEA78A9FCFF1.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/ucieka.uasset'
+[2021.01.31-04.29.17:187][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.31-04.29.17:205][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.31-04.29.17:214][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.01.31-04.29.17:239][774]AssetCheck: New page: Asset Save: ucieka
+[2021.01.31-04.29.17:239][774]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/ucieka.ucieka
+[2021.01.31-04.29.30:657][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.31-04.29.31:176][442]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/PanGrzyb1.PanGrzyb1
+[2021.01.31-04.29.33:793][718]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.31-04.29.38:592][285]BlueprintLog: New page: Compile PanGrzyb1
+[2021.01.31-04.29.38:617][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.01.31-04.29.38:852][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/PanGrzyb1" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb1.uasset" SILENT=true
+[2021.01.31-04.29.38:863][307]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/PanGrzyb1F3648E4543D2DBFAABF93A9C2494FDE3.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/PanGrzyb1.uasset'
+[2021.01.31-04.29.38:875][307]AssetCheck: New page: Asset Save: PanGrzyb1
+[2021.01.31-04.29.38:875][307]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/PanGrzyb1.PanGrzyb1
+[2021.01.31-04.30.32:489][516]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Pulpit\KrakJam\other\umi.png)
+[2021.01.31-04.30.32:507][516]LogTexture: Display: Building textures: umi (BGRA8, 2034X1153)
+[2021.01.31-04.30.47:029][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Test01" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-04.30.47:042][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.31-04.30.47:056][194]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test01334688AF456E0FD5615DDA9BA690334A.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap'
+[2021.01.31-04.30.47:074][194]AssetCheck: New page: Asset Save: Test01
+[2021.01.31-04.30.47:074][194]LogContentValidation: Display: Validating World /Game/Levels/Maps/Test01.Test01
+[2021.01.31-04.31.00:660][770]LogMetaData: Removing '/Game/Blueprints/NPC/umi.SKEL_umi_C' ref from Metadata '/Game/Blueprints/NPC/PanGrzyb1.PackageMetaData'
+[2021.01.31-04.31.00:660][770]LogMetaData: Removing '/Game/Blueprints/NPC/umi.umi_C' ref from Metadata '/Game/Blueprints/NPC/PanGrzyb1.PackageMetaData'
+[2021.01.31-04.31.00:660][770]LogMetaData: Removing '/Game/Blueprints/NPC/umi.SKEL_umi_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/PanGrzyb1.PackageMetaData'
+[2021.01.31-04.31.00:660][770]LogMetaData: Removing '/Game/Blueprints/NPC/umi.SKEL_umi_C:BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/NPC/PanGrzyb1.PackageMetaData'
+[2021.01.31-04.31.00:660][770]LogMetaData: Removing '/Game/Blueprints/NPC/umi.SKEL_umi_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/NPC/PanGrzyb1.PackageMetaData'
+[2021.01.31-04.31.00:671][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/umi" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/umi.uasset" SILENT=true
+[2021.01.31-04.31.00:682][770]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/umiEA820A2C43DB4601821468B747644D46.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/umi.uasset'
+[2021.01.31-04.31.00:727][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.31-04.31.00:746][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.01.31-04.31.00:756][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.31-04.31.00:780][770]AssetCheck: New page: Asset Save: umi
+[2021.01.31-04.31.00:781][770]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/umi.umi
+[2021.01.31-04.31.32:619][476]LogEditorTransaction: Undo Set Scale
+[2021.01.31-04.31.33:392][533]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.31-04.31.51:196][600]BlueprintLog: New page: Compile umi
+[2021.01.31-04.31.51:243][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.01.31-04.31.54:243][950]BlueprintLog: New page: Compile umi
+[2021.01.31-04.31.54:267][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.01.31-04.31.55:495][ 85]BlueprintLog: New page: Compile umi
+[2021.01.31-04.31.55:518][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.31-04.31.55:796][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/umi" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/umi.uasset" SILENT=true
+[2021.01.31-04.31.55:806][112]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/umi0C58847F4721213CD5839A9730193A48.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/umi.uasset'
+[2021.01.31-04.31.55:816][112]AssetCheck: New page: Asset Save: umi
+[2021.01.31-04.31.55:816][112]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/umi.umi
+[2021.01.31-04.32.03:430][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NPC/ucieka.ucieka
+[2021.01.31-04.32.05:668][981]BlueprintLog: New page: Compile ucieka
+[2021.01.31-04.32.05:692][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.01.31-04.32.05:966][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/ucieka" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/ucieka.uasset" SILENT=true
+[2021.01.31-04.32.05:974][  9]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/uciekaC0CD5908451BF19AC43A55A859F2065B.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Blueprints/NPC/ucieka.uasset'
+[2021.01.31-04.32.05:985][  9]AssetCheck: New page: Asset Save: ucieka
+[2021.01.31-04.32.05:985][  9]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/NPC/ucieka.ucieka
+[2021.01.31-04.32.06:741][ 96]LogSlate: Window 'ucieka' being destroyed
+[2021.01.31-04.32.06:745][ 96]LogSlate: Window 'ucieka' being destroyed
+[2021.01.31-04.32.06:753][ 96]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.32.06:753][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.32.06:803][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.31-04.32.06:803][ 96]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.32.06:803][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.32.15:549][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Test01" FILE="G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-04.32.15:564][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.01.31-04.32.15:577][135]LogSavePackage: Moving 'G:/Dokumenty/GitHub/KrakJam/Saved/Test016A97C8AC4D98A33D003564AEF44DC264.tmp' to 'G:/Dokumenty/GitHub/KrakJam/Content/Levels/Maps/Test01.umap'
+[2021.01.31-04.32.15:593][135]AssetCheck: New page: Asset Save: Test01
+[2021.01.31-04.32.15:594][135]LogContentValidation: Display: Validating World /Game/Levels/Maps/Test01.Test01
+[2021.01.31-04.32.16:002][182]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-04.32.16:009][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-04.32.16:009][182]PIE: New page: PIE session: Test01 (31 sty 2021, 06:32:16)
+[2021.01.31-04.32.16:009][182]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.32.16:011][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002136s)
+[2021.01.31-04.32.16:012][182]LogAIModule: Creating AISystem for world Test01
+[2021.01.31-04.32.16:012][182]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2021.01.31-04.32.16:012][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Test01.Test01 to /Game/Levels/Maps/UEDPIE_0_Test01.Test01 (0.002814s)
+[2021.01.31-04.32.16:023][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.31-04.32.16:024][182]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-04.32.16:024][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-04.32.16:024][182]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-04.32.16:024][182]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 4: BackLeft
+[2021.01.31-04.32.16:027][182]LogAudioMixer: Display: 5: BackRight
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-04.32.16:038][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-04.32.16:038][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.31-04.32.16:048][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-04.32.16:048][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-04.32.16:048][182]LogInit: FAudioDevice initialized.
+[2021.01.31-04.32.16:048][182]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test01'.
+[2021.01.31-04.32.16:070][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.32.16:070][182]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-04.32.16:072][182]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Test01.Test01 up for play (max tick rate 0) at 2021.01.31-05.32.16
+[2021.01.31-04.32.16:072][182]LogWorld: Bringing up level for play took: 0.001067
+[2021.01.31-04.32.16:072][182]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.01.31-04.32.16:076][182]PIE: Server logged in
+[2021.01.31-04.32.16:076][182]PIE: Play in editor total start time 0,069 seconds.
+[2021.01.31-04.32.17:057][275]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-04.32.18:023][391]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-04.32.20:089][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-04.32.20:089][635]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Test01
+[2021.01.31-04.32.20:090][635]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-04.32.20:093][635]LogWorld: UWorld::CleanupWorld for Test01, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-04.32.20:093][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.32.20:101][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-04.32.20:107][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-04.32.20:117][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.32.20:117][635]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-04.32.20:131][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.01.31-04.32.20:181][637]LogPlayLevel: Display: Destroying online subsystem :Context_37
