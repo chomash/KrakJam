@@ -1949,3 +1949,1138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-23.24.03:712][395]LogContentValidation: Display: Validating PaperSprite /Game/Levels/LevelAssets/Sprites/grzyp_Sprite.grzyp_Sprite
 [2021.01.30-23.24.03:712][395]LogContentValidation: Display: Validating PaperSprite /Game/Levels/LevelAssets/Sprites/grzyb2_Sprite.grzyb2_Sprite
 [2021.01.30-23.24.03:712][395]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_C.Poziom_C
+[2021.01.30-23.32.56:288][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.30-23.32.58:283][106]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-23.32.58:325][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_4" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-23.32.58:363][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-23.32.58:377][106]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_4E16D6020488740174824C19B0D7E4B59.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap'
+[2021.01.30-23.32.58:380][106]LogFileHelpers: Saving map 'Poziom_4' took 0.055
+[2021.01.30-23.32.58:427][106]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Maps/Poziom_4.Poziom_4
+[2021.01.30-23.32.58:427][106]Cmd: MAP LOAD FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-23.32.58:427][106]LightingResults: New page: Lighting Build
+[2021.01.30-23.32.58:427][106]LoadErrors: New page: Loading map: Poziom_4.umap
+[2021.01.30-23.32.58:429][106]LogWorld: UWorld::CleanupWorld for Poziom_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.32.58:429][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.32.58:429][106]MapCheck: New page: Map Check
+[2021.01.30-23.32.58:429][106]LightingResults: New page: Lighting Build
+[2021.01.30-23.32.58:459][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-23.32.58:463][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.01.30-23.32.58:464][106]LogAudio: Display: Audio Device (ID: 1) registered with world 'Poziom_4'.
+[2021.01.30-23.32.58:468][106]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-23.32.58:468][106]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.30-23.32.58:482][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.30-23.32.58:493][106]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-23.32.58:493][106]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2021.01.30-23.32.58:493][106]LogFileHelpers: Loading map 'Poziom_4' took 0.067
+[2021.01.30-23.32.58:512][106]AssetCheck: New page: Asset Save: Poziom_4
+[2021.01.30-23.32.58:512][106]LogContentValidation: Display: Validating World /Game/Levels/Maps/Poziom_4.Poziom_4
+[2021.01.30-23.33.03:565][413]Cmd: DELETE
+[2021.01.30-23.33.03:565][413]Cmd: ACTOR DELETE
+[2021.01.30-23.33.03:577][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.30-23.33.03:578][413]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2021.01.30-23.33.06:456][574]Cmd: DELETE
+[2021.01.30-23.33.06:456][574]Cmd: ACTOR DELETE
+[2021.01.30-23.33.06:461][574]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.06:469][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.01.30-23.33.06:470][574]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.01.30-23.33.07:073][616]Cmd: DELETE
+[2021.01.30-23.33.07:073][616]Cmd: ACTOR DELETE
+[2021.01.30-23.33.07:076][616]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.07:083][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-23.33.07:084][616]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.01.30-23.33.07:644][655]Cmd: DELETE
+[2021.01.30-23.33.07:644][655]Cmd: ACTOR DELETE
+[2021.01.30-23.33.07:646][655]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.07:652][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.30-23.33.07:652][655]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.01.30-23.33.08:114][687]Cmd: DELETE
+[2021.01.30-23.33.08:114][687]Cmd: ACTOR DELETE
+[2021.01.30-23.33.08:116][687]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.08:122][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.01.30-23.33.08:123][687]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.01.30-23.33.08:664][725]Cmd: DELETE
+[2021.01.30-23.33.08:664][725]Cmd: ACTOR DELETE
+[2021.01.30-23.33.08:666][725]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.08:672][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.30-23.33.08:673][725]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.01.30-23.33.09:592][786]Cmd: DELETE
+[2021.01.30-23.33.09:592][786]Cmd: ACTOR DELETE
+[2021.01.30-23.33.09:593][786]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.09:600][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.01.30-23.33.09:601][786]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.01.30-23.33.10:173][821]Cmd: DELETE
+[2021.01.30-23.33.10:173][821]Cmd: ACTOR DELETE
+[2021.01.30-23.33.10:175][821]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.10:183][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.01.30-23.33.10:184][821]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.01.30-23.33.10:857][864]Cmd: DELETE
+[2021.01.30-23.33.10:857][864]Cmd: ACTOR DELETE
+[2021.01.30-23.33.10:859][864]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.30-23.33.10:869][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.01.30-23.33.10:869][864]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.01.30-23.33.15:199][ 92]Cmd: DELETE
+[2021.01.30-23.33.15:199][ 92]Cmd: ACTOR DELETE
+[2021.01.30-23.33.15:201][ 92]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2021.01.30-23.33.15:208][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.30-23.33.15:209][ 92]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.01.30-23.33.16:762][195]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (CIEMNOSC)
+[2021.01.30-23.33.17:150][220]Cmd: DELETE
+[2021.01.30-23.33.17:150][220]Cmd: ACTOR DELETE
+[2021.01.30-23.33.17:152][220]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2021.01.30-23.33.17:162][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.01.30-23.33.17:163][220]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.01.30-23.33.27:019][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_4" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.30-23.33.27:028][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.01.30-23.33.27:034][916]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_45EAECE744B3539A4D47B3EB49D684244.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap'
+[2021.01.30-23.33.27:100][916]AssetCheck: New page: Asset Save: Poziom_4
+[2021.01.30-23.33.27:100][916]LogContentValidation: Display: Validating World /Game/Levels/Maps/Poziom_4.Poziom_4
+[2021.01.30-23.33.49:464][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.30-23.33.49:595][471]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DE4A94D954FA01A06BE07A0AE7BC1753F.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.30-23.33.49:616][471]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.30-23.33.49:616][471]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.36.26:660][100]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.36.31:959][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.30-23.36.32:003][279]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DD52C5A134A03D14049E6EEAD2BA52277.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.30-23.36.32:021][279]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.30-23.36.32:021][279]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.36.32:920][319]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.30-23.36.32:927][319]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.30-23.36.32:933][319]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.36.32:933][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.38.02:422][228]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.48.02:950][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.30-23.48.03:028][944]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D557D6CAE40215399145D72BAB897CF98.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.30-23.48.03:047][944]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.30-23.48.03:047][944]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.48.03:536][962]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.30-23.48.03:548][962]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.30-23.48.03:554][962]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.48.03:554][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.48.10:467][504]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-23.48.12:582][673]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.30-23.48.13:338][724]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.30-23.48.13:353][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-23.48.13:353][724]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 01:48:13)
+[2021.01.30-23.48.13:353][724]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.48.13:359][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005416s)
+[2021.01.30-23.48.13:360][724]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.30-23.48.13:360][724]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2021.01.30-23.48.13:360][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.006977s)
+[2021.01.30-23.48.13:379][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.30-23.48.13:382][724]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.01.30-23.48.13:382][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-23.48.13:382][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-23.48.13:382][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-23.48.13:382][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-23.48.13:383][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-23.48.13:383][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-23.48.13:383][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-23.48.13:383][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-23.48.13:383][724]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-23.48.13:383][724]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-23.48.13:396][724]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-23.48.13:396][724]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-23.48.13:420][724]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.30-23.48.13:421][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-23.48.13:421][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-23.48.13:421][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-23.48.13:424][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-23.48.13:424][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-23.48.13:424][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-23.48.13:439][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-23.48.13:439][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-23.48.13:439][724]LogInit: FAudioDevice initialized.
+[2021.01.30-23.48.13:439][724]LogAudio: Display: Audio Device (ID: 17) registered with world 'Poziom_4'.
+[2021.01.30-23.48.13:492][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.48.13:493][724]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.30-23.48.13:496][724]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-00.48.13
+[2021.01.30-23.48.13:496][724]LogWorld: Bringing up level for play took: 0.002167
+[2021.01.30-23.48.13:497][724]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.01.30-23.48.13:504][724]PIE: Server logged in
+[2021.01.30-23.48.13:510][724]PIE: Play in editor total start time 0,165 seconds.
+[2021.01.30-23.48.15:752][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.48.15:753][863]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.48.15:753][863]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.30-23.48.15:769][863]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.48.15:770][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.48.15:781][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-23.48.15:802][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.48.15:811][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-23.48.15:811][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.48.15:812][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.48.15:841][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.30-23.48.15:868][864]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.01.30-23.48.23:835][473]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.30-23.48.23:850][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-23.48.23:850][473]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 01:48:23)
+[2021.01.30-23.48.23:850][473]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.48.23:852][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2021.01.30-23.48.23:853][473]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.30-23.48.23:854][473]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2021.01.30-23.48.23:854][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.004248s)
+[2021.01.30-23.48.23:863][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.30-23.48.23:864][473]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-23.48.23:864][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-23.48.23:864][473]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-23.48.23:864][473]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-23.48.23:874][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-23.48.23:874][473]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-23.48.23:897][473]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.30-23.48.23:897][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-23.48.23:897][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-23.48.23:897][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-23.48.23:899][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-23.48.23:899][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-23.48.23:899][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-23.48.23:915][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-23.48.23:915][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-23.48.23:915][473]LogInit: FAudioDevice initialized.
+[2021.01.30-23.48.23:915][473]LogAudio: Display: Audio Device (ID: 18) registered with world 'Poziom_4'.
+[2021.01.30-23.48.23:957][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.48.23:957][473]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.30-23.48.23:960][473]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-00.48.23
+[2021.01.30-23.48.23:960][473]LogWorld: Bringing up level for play took: 0.001959
+[2021.01.30-23.48.23:960][473]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.01.30-23.48.23:967][473]PIE: Server logged in
+[2021.01.30-23.48.23:969][473]PIE: Play in editor total start time 0,126 seconds.
+[2021.01.30-23.48.26:844][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.48.26:844][638]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.48.26:844][638]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.30-23.48.26:863][638]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.48.26:864][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.48.26:877][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-23.48.26:900][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.48.26:914][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.48.26:915][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.48.26:948][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.30-23.48.26:999][639]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.01.30-23.48.42:113][642]LogEditorViewport: Clicking Background
+[2021.01.30-23.48.42:812][714]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (CIEMNOSC)
+[2021.01.30-23.48.54:619][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.30-23.48.54:630][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-23.48.54:630][729]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 01:48:54)
+[2021.01.30-23.48.54:630][729]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.48.54:632][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001934s)
+[2021.01.30-23.48.54:633][729]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.30-23.48.54:633][729]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2021.01.30-23.48.54:633][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003126s)
+[2021.01.30-23.48.54:654][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.30-23.48.54:656][729]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-23.48.54:656][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-23.48.54:656][729]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-23.48.54:656][729]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-23.48.54:667][729]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-23.48.54:667][729]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-23.48.54:691][729]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.30-23.48.54:692][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-23.48.54:692][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-23.48.54:692][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-23.48.54:692][729]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-23.48.54:692][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-23.48.54:692][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-23.48.54:710][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-23.48.54:710][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-23.48.54:710][729]LogInit: FAudioDevice initialized.
+[2021.01.30-23.48.54:710][729]LogAudio: Display: Audio Device (ID: 19) registered with world 'Poziom_4'.
+[2021.01.30-23.48.54:760][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.48.54:760][729]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.30-23.48.54:764][729]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-00.48.54
+[2021.01.30-23.48.54:764][729]LogWorld: Bringing up level for play took: 0.003687
+[2021.01.30-23.48.54:765][729]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.01.30-23.48.54:774][729]PIE: Server logged in
+[2021.01.30-23.48.54:777][729]PIE: Play in editor total start time 0,152 seconds.
+[2021.01.30-23.49.00:951][105]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.30-23.49.02:443][200]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.30-23.49.03:514][267]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.30-23.49.05:128][370]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.30-23.49.06:624][466]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.30-23.49.08:384][580]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.30-23.49.09:404][645]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.30-23.49.11:641][788]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.30-23.49.13:614][917]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.30-23.49.15:292][ 23]LogBlueprintUserMessages: [PlayerCharacter_C_0] 10
+[2021.01.30-23.49.16:016][ 68]LogBlueprintUserMessages: [PlayerCharacter_C_0] 11
+[2021.01.30-23.49.19:011][263]LogBlueprintUserMessages: [PlayerCharacter_C_0] 12
+[2021.01.30-23.49.20:893][382]LogBlueprintUserMessages: [PlayerCharacter_C_0] 13
+[2021.01.30-23.49.21:596][427]LogBlueprintUserMessages: [PlayerCharacter_C_0] 14
+[2021.01.30-23.49.28:995][919]LogBlueprintUserMessages: [PlayerCharacter_C_0] 15
+[2021.01.30-23.49.30:476][ 13]LogBlueprintUserMessages: [PlayerCharacter_C_0] 16
+[2021.01.30-23.49.31:166][ 56]LogBlueprintUserMessages: [PlayerCharacter_C_0] 17
+[2021.01.30-23.49.33:346][194]LogBlueprintUserMessages: [PlayerCharacter_C_0] 18
+[2021.01.30-23.49.36:150][376]LogBlueprintUserMessages: [PlayerCharacter_C_0] 19
+[2021.01.30-23.49.38:325][520]LogBlueprintUserMessages: [PlayerCharacter_C_0] 20
+[2021.01.30-23.49.39:943][625]LogBlueprintUserMessages: [PlayerCharacter_C_0] 21
+[2021.01.30-23.49.40:695][672]LogBlueprintUserMessages: [PlayerCharacter_C_0] 22
+[2021.01.30-23.49.42:899][816]LogBlueprintUserMessages: [PlayerCharacter_C_0] 23
+[2021.01.30-23.49.45:111][958]LogBlueprintUserMessages: [PlayerCharacter_C_0] 24
+[2021.01.30-23.49.45:758][998]LogBlueprintUserMessages: [PlayerCharacter_C_0] 25
+[2021.01.30-23.49.47:476][106]LogBlueprintUserMessages: [PlayerCharacter_C_0] 26
+[2021.01.30-23.49.48:596][178]LogBlueprintUserMessages: [PlayerCharacter_C_0] 27
+[2021.01.30-23.49.49:392][229]LogBlueprintUserMessages: [PlayerCharacter_C_0] 28
+[2021.01.30-23.49.49:946][265]LogBlueprintUserMessages: [PlayerCharacter_C_0] 29
+[2021.01.30-23.49.53:012][460]LogBlueprintUserMessages: [PlayerCharacter_C_0] 30
+[2021.01.30-23.49.56:760][699]LogBlueprintUserMessages: [PlayerCharacter_C_0] 31
+[2021.01.30-23.49.58:646][823]LogBlueprintUserMessages: [PlayerCharacter_C_0] 32
+[2021.01.30-23.50.00:059][913]LogBlueprintUserMessages: [PlayerCharacter_C_0] 33
+[2021.01.30-23.50.00:764][957]LogBlueprintUserMessages: [PlayerCharacter_C_0] 34
+[2021.01.30-23.50.02:479][ 65]LogBlueprintUserMessages: [PlayerCharacter_C_0] 35
+[2021.01.30-23.50.03:284][116]LogBlueprintUserMessages: [PlayerCharacter_C_0] 36
+[2021.01.30-23.50.03:726][145]LogBlueprintUserMessages: [PlayerCharacter_C_0] 37
+[2021.01.30-23.50.04:329][184]LogBlueprintUserMessages: [PlayerCharacter_C_0] 38
+[2021.01.30-23.50.06:282][311]LogBlueprintUserMessages: [PlayerCharacter_C_0] 39
+[2021.01.30-23.50.14:992][872]LogBlueprintUserMessages: [PlayerCharacter_C_0] 40
+[2021.01.30-23.50.15:106][879]LogBlueprintUserMessages: [PlayerCharacter_C_0] 41
+[2021.01.30-23.50.16:356][960]LogBlueprintUserMessages: [PlayerCharacter_C_0] 42
+[2021.01.30-23.50.17:811][ 53]LogBlueprintUserMessages: [PlayerCharacter_C_0] 43
+[2021.01.30-23.50.18:624][103]LogBlueprintUserMessages: [PlayerCharacter_C_0] 44
+[2021.01.30-23.50.19:007][127]LogBlueprintUserMessages: [PlayerCharacter_C_0] 45
+[2021.01.30-23.50.19:691][169]LogBlueprintUserMessages: [PlayerCharacter_C_0] 46
+[2021.01.30-23.50.21:281][272]LogBlueprintUserMessages: [PlayerCharacter_C_0] 47
+[2021.01.30-23.50.21:958][317]LogBlueprintUserMessages: [PlayerCharacter_C_0] 48
+[2021.01.30-23.50.22:709][365]LogBlueprintUserMessages: [PlayerCharacter_C_0] 49
+[2021.01.30-23.50.24:857][500]LogBlueprintUserMessages: [PlayerCharacter_C_0] 50
+[2021.01.30-23.50.28:037][703]LogBlueprintUserMessages: [PlayerCharacter_C_0] 51
+[2021.01.30-23.50.30:797][886]LogBlueprintUserMessages: [PlayerCharacter_C_0] 52
+[2021.01.30-23.51.12:991][666]LogBlueprintUserMessages: [PlayerCharacter_C_0] 53
+[2021.01.30-23.51.14:870][789]LogBlueprintUserMessages: [PlayerCharacter_C_0] 54
+[2021.01.30-23.51.17:584][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-23.51.17:584][962]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.30-23.51.17:585][962]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.30-23.51.17:602][962]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-23.51.17:603][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.51.17:619][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-23.51.17:641][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-23.51.17:648][962]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-23.51.17:648][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.51.17:650][962]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-23.51.17:675][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.30-23.51.17:726][963]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.01.30-23.51.20:363][161]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.30-23.54.49:696][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.01.30-23.54.49:700][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_4" FILE="../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Poziom_4_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.30-23.54.49:711][642]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_4_Auto351B8E25C48C53D830CC139B259AE4FEE.tmp' to '../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Poziom_4_Auto3.umap'
+[2021.01.30-23.54.49:712][642]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/Poziom_4' took 0.026
+[2021.01.30-23.54.49:712][642]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2021.01.30-23.54.49:712][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/LevelAssets/TileMaps/Poziom_D] ([1] browsable assets)...
+[2021.01.30-23.54.49:712][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/LevelAssets/TileMaps/Poziom_D]
+[2021.01.30-23.54.50:107][642]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D_Auto33963C91A49ADC35E61DE6DBD20FD1B5D.tmp' to '../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/LevelAssets/TileMaps/Poziom_D_Auto3.uasset'
+[2021.01.30-23.54.50:107][642]LogFileHelpers: Auto-saving content packages took 0.395
+[2021.01.30-23.59.54:856][ 53]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.31-00.01.40:815][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.01.40:894][833]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D6205128E4E9222536C0A3BACF05BB6AE.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.01.40:922][833]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.01.40:922][833]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.01.41:323][856]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.01.41:332][856]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.01.41:339][856]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.01.41:339][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.01.42:416][944]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.01.42:429][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.01.42:430][944]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:01:42)
+[2021.01.31-00.01.42:430][944]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.01.42:432][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002009s)
+[2021.01.31-00.01.42:433][944]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.01.42:433][944]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2021.01.31-00.01.42:433][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003418s)
+[2021.01.31-00.01.42:450][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.31-00.01.42:455][944]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.01.42:455][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.01.42:455][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.01.42:456][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.01.42:456][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.01.42:466][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.01.42:466][944]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.01.42:490][944]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.01.42:490][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.01.42:490][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.01.42:490][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.01.42:491][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.01.42:491][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.01.42:491][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.01.42:492][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.01.42:492][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.01.42:492][944]LogInit: FAudioDevice initialized.
+[2021.01.31-00.01.42:492][944]LogAudio: Display: Audio Device (ID: 20) registered with world 'Poziom_4'.
+[2021.01.31-00.01.42:543][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.01.42:543][944]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.01.42:547][944]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.01.42
+[2021.01.31-00.01.42:548][944]LogWorld: Bringing up level for play took: 0.004189
+[2021.01.31-00.01.42:548][944]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.01.31-00.01.42:556][944]PIE: Server logged in
+[2021.01.31-00.01.42:560][944]PIE: Play in editor total start time 0,137 seconds.
+[2021.01.31-00.01.51:019][462]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.01.52:176][535]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.01.53:814][640]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.01.54:529][684]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.01.56:998][838]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.01.58:097][905]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.01.58:783][948]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.31-00.02.00:649][ 66]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.31-00.02.03:268][231]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.31-00.02.03:996][275]LogBlueprintUserMessages: [PlayerCharacter_C_0] 10
+[2021.01.31-00.02.05:178][350]LogBlueprintUserMessages: [PlayerCharacter_C_0] 11
+[2021.01.31-00.02.07:279][483]LogBlueprintUserMessages: [PlayerCharacter_C_0] 12
+[2021.01.31-00.02.07:870][520]LogBlueprintUserMessages: [PlayerCharacter_C_0] 13
+[2021.01.31-00.02.09:631][633]LogBlueprintUserMessages: [PlayerCharacter_C_0] 14
+[2021.01.31-00.02.14:364][939]LogBlueprintUserMessages: [PlayerCharacter_C_0] 15
+[2021.01.31-00.02.16:646][ 90]LogBlueprintUserMessages: [PlayerCharacter_C_0] 16
+[2021.01.31-00.02.17:994][177]LogBlueprintUserMessages: [PlayerCharacter_C_0] 17
+[2021.01.31-00.02.18:843][233]LogBlueprintUserMessages: [PlayerCharacter_C_0] 18
+[2021.01.31-00.02.19:813][296]LogBlueprintUserMessages: [PlayerCharacter_C_0] 19
+[2021.01.31-00.02.20:893][365]LogBlueprintUserMessages: [PlayerCharacter_C_0] 20
+[2021.01.31-00.02.34:346][243]LogBlueprintUserMessages: [PlayerCharacter_C_0] 21
+[2021.01.31-00.02.35:012][286]LogBlueprintUserMessages: [PlayerCharacter_C_0] 22
+[2021.01.31-00.02.36:744][396]LogBlueprintUserMessages: [PlayerCharacter_C_0] 23
+[2021.01.31-00.02.38:211][491]LogBlueprintUserMessages: [PlayerCharacter_C_0] 24
+[2021.01.31-00.02.40:279][623]LogBlueprintUserMessages: [PlayerCharacter_C_0] 25
+[2021.01.31-00.02.40:543][639]LogBlueprintUserMessages: [PlayerCharacter_C_0] 26
+[2021.01.31-00.02.40:745][652]LogBlueprintUserMessages: [PlayerCharacter_C_0] 27
+[2021.01.31-00.02.42:150][743]LogBlueprintUserMessages: [PlayerCharacter_C_0] 28
+[2021.01.31-00.02.42:595][772]LogBlueprintUserMessages: [PlayerCharacter_C_0] 29
+[2021.01.31-00.02.48:263][132]LogBlueprintUserMessages: [PlayerCharacter_C_0] 30
+[2021.01.31-00.02.49:310][199]LogBlueprintUserMessages: [PlayerCharacter_C_0] 31
+[2021.01.31-00.02.49:610][218]LogBlueprintUserMessages: [PlayerCharacter_C_0] 32
+[2021.01.31-00.02.49:860][234]LogBlueprintUserMessages: [PlayerCharacter_C_0] 33
+[2021.01.31-00.02.50:429][270]LogBlueprintUserMessages: [PlayerCharacter_C_0] 34
+[2021.01.31-00.02.52:729][415]LogBlueprintUserMessages: [PlayerCharacter_C_0] 35
+[2021.01.31-00.02.53:009][433]LogBlueprintUserMessages: [PlayerCharacter_C_0] 36
+[2021.01.31-00.02.54:904][557]LogBlueprintUserMessages: [PlayerCharacter_C_0] 37
+[2021.01.31-00.02.55:174][574]LogBlueprintUserMessages: [PlayerCharacter_C_0] 38
+[2021.01.31-00.03.02:027][  9]LogBlueprintUserMessages: [PlayerCharacter_C_0] 39
+[2021.01.31-00.03.05:250][219]LogBlueprintUserMessages: [PlayerCharacter_C_0] 40
+[2021.01.31-00.03.05:481][234]LogBlueprintUserMessages: [PlayerCharacter_C_0] 41
+[2021.01.31-00.03.07:295][350]LogBlueprintUserMessages: [PlayerCharacter_C_0] 42
+[2021.01.31-00.03.12:766][705]LogBlueprintUserMessages: [PlayerCharacter_C_0] 43
+[2021.01.31-00.03.13:003][720]LogBlueprintUserMessages: [PlayerCharacter_C_0] 44
+[2021.01.31-00.03.13:220][734]LogBlueprintUserMessages: [PlayerCharacter_C_0] 45
+[2021.01.31-00.03.14:692][827]LogBlueprintUserMessages: [PlayerCharacter_C_0] 46
+[2021.01.31-00.03.16:949][974]LogBlueprintUserMessages: [PlayerCharacter_C_0] 47
+[2021.01.31-00.03.17:210][991]LogBlueprintUserMessages: [PlayerCharacter_C_0] 48
+[2021.01.31-00.03.18:611][ 80]LogBlueprintUserMessages: [PlayerCharacter_C_0] 49
+[2021.01.31-00.03.20:178][181]LogBlueprintUserMessages: [PlayerCharacter_C_0] 50
+[2021.01.31-00.03.20:395][195]LogBlueprintUserMessages: [PlayerCharacter_C_0] 51
+[2021.01.31-00.03.20:689][214]LogBlueprintUserMessages: [PlayerCharacter_C_0] 52
+[2021.01.31-00.03.21:910][293]LogBlueprintUserMessages: [PlayerCharacter_C_0] 53
+[2021.01.31-00.03.22:146][308]LogBlueprintUserMessages: [PlayerCharacter_C_0] 54
+[2021.01.31-00.03.23:077][368]LogBlueprintUserMessages: [PlayerCharacter_C_0] 55
+[2021.01.31-00.03.23:699][408]LogBlueprintUserMessages: [PlayerCharacter_C_0] 56
+[2021.01.31-00.03.24:925][485]LogBlueprintUserMessages: [PlayerCharacter_C_0] 57
+[2021.01.31-00.03.27:112][625]LogBlueprintUserMessages: [PlayerCharacter_C_0] 58
+[2021.01.31-00.03.29:693][790]LogBlueprintUserMessages: [PlayerCharacter_C_0] 59
+[2021.01.31-00.03.30:812][861]LogBlueprintUserMessages: [PlayerCharacter_C_0] 60
+[2021.01.31-00.03.34:946][128]LogBlueprintUserMessages: [PlayerCharacter_C_0] 61
+[2021.01.31-00.03.36:322][216]LogBlueprintUserMessages: [PlayerCharacter_C_0] 62
+[2021.01.31-00.03.38:690][366]LogBlueprintUserMessages: [PlayerCharacter_C_0] 63
+[2021.01.31-00.03.40:042][453]LogBlueprintUserMessages: [PlayerCharacter_C_0] 64
+[2021.01.31-00.03.41:542][550]LogBlueprintUserMessages: [PlayerCharacter_C_0] 65
+[2021.01.31-00.03.42:780][629]LogBlueprintUserMessages: [PlayerCharacter_C_0] 66
+[2021.01.31-00.03.44:596][746]LogBlueprintUserMessages: [PlayerCharacter_C_0] 67
+[2021.01.31-00.03.46:262][852]LogBlueprintUserMessages: [PlayerCharacter_C_0] 68
+[2021.01.31-00.03.47:626][938]LogBlueprintUserMessages: [PlayerCharacter_C_0] 69
+[2021.01.31-00.03.49:175][ 38]LogBlueprintUserMessages: [PlayerCharacter_C_0] 70
+[2021.01.31-00.03.52:879][268]LogBlueprintUserMessages: [PlayerCharacter_C_0] 71
+[2021.01.31-00.03.54:185][348]LogBlueprintUserMessages: [PlayerCharacter_C_0] 72
+[2021.01.31-00.03.55:661][442]LogBlueprintUserMessages: [PlayerCharacter_C_0] 73
+[2021.01.31-00.03.57:145][536]LogBlueprintUserMessages: [PlayerCharacter_C_0] 74
+[2021.01.31-00.03.59:589][688]LogBlueprintUserMessages: [PlayerCharacter_C_0] 75
+[2021.01.31-00.04.01:062][783]LogBlueprintUserMessages: [PlayerCharacter_C_0] 76
+[2021.01.31-00.04.02:150][852]LogBlueprintUserMessages: [PlayerCharacter_C_0] 77
+[2021.01.31-00.04.02:974][905]LogBlueprintUserMessages: [PlayerCharacter_C_0] 78
+[2021.01.31-00.04.04:142][981]LogBlueprintUserMessages: [PlayerCharacter_C_0] 79
+[2021.01.31-00.04.06:857][153]LogBlueprintUserMessages: [PlayerCharacter_C_0] 80
+[2021.01.31-00.04.08:408][253]LogBlueprintUserMessages: [PlayerCharacter_C_0] 81
+[2021.01.31-00.04.10:026][356]LogBlueprintUserMessages: [PlayerCharacter_C_0] 82
+[2021.01.31-00.04.12:505][517]LogBlueprintUserMessages: [PlayerCharacter_C_0] 83
+[2021.01.31-00.04.14:535][645]LogBlueprintUserMessages: [PlayerCharacter_C_0] 84
+[2021.01.31-00.04.15:709][721]LogBlueprintUserMessages: [PlayerCharacter_C_0] 85
+[2021.01.31-00.04.17:457][832]LogBlueprintUserMessages: [PlayerCharacter_C_0] 86
+[2021.01.31-00.04.19:122][940]LogBlueprintUserMessages: [PlayerCharacter_C_0] 87
+[2021.01.31-00.04.20:990][ 62]LogBlueprintUserMessages: [PlayerCharacter_C_0] 88
+[2021.01.31-00.04.23:674][235]LogBlueprintUserMessages: [PlayerCharacter_C_0] 89
+[2021.01.31-00.04.24:976][319]LogBlueprintUserMessages: [PlayerCharacter_C_0] 90
+[2021.01.31-00.04.26:505][418]LogBlueprintUserMessages: [PlayerCharacter_C_0] 91
+[2021.01.31-00.04.27:840][504]LogBlueprintUserMessages: [PlayerCharacter_C_0] 92
+[2021.01.31-00.04.28:624][554]LogBlueprintUserMessages: [PlayerCharacter_C_0] 93
+[2021.01.31-00.04.29:873][635]LogBlueprintUserMessages: [PlayerCharacter_C_0] 94
+[2021.01.31-00.04.31:291][727]LogBlueprintUserMessages: [PlayerCharacter_C_0] 95
+[2021.01.31-00.04.33:342][860]LogBlueprintUserMessages: [PlayerCharacter_C_0] 96
+[2021.01.31-00.04.35:010][968]LogBlueprintUserMessages: [PlayerCharacter_C_0] 97
+[2021.01.31-00.04.36:656][ 74]LogBlueprintUserMessages: [PlayerCharacter_C_0] 98
+[2021.01.31-00.04.38:328][182]LogBlueprintUserMessages: [PlayerCharacter_C_0] 99
+[2021.01.31-00.04.43:246][493]LogBlueprintUserMessages: [PlayerCharacter_C_0] 100
+[2021.01.31-00.04.44:721][587]LogBlueprintUserMessages: [PlayerCharacter_C_0] 101
+[2021.01.31-00.04.46:414][696]LogBlueprintUserMessages: [PlayerCharacter_C_0] 102
+[2021.01.31-00.04.47:756][783]LogBlueprintUserMessages: [PlayerCharacter_C_0] 103
+[2021.01.31-00.04.49:360][885]LogBlueprintUserMessages: [PlayerCharacter_C_0] 104
+[2021.01.31-00.04.50:997][993]LogBlueprintUserMessages: [PlayerCharacter_C_0] 105
+[2021.01.31-00.04.52:674][104]LogBlueprintUserMessages: [PlayerCharacter_C_0] 106
+[2021.01.31-00.04.59:356][542]LogBlueprintUserMessages: [PlayerCharacter_C_0] 107
+[2021.01.31-00.05.01:099][659]LogBlueprintUserMessages: [PlayerCharacter_C_0] 108
+[2021.01.31-00.05.01:871][713]LogBlueprintUserMessages: [PlayerCharacter_C_0] 109
+[2021.01.31-00.05.03:079][795]LogBlueprintUserMessages: [PlayerCharacter_C_0] 110
+[2021.01.31-00.05.04:056][859]LogBlueprintUserMessages: [PlayerCharacter_C_0] 111
+[2021.01.31-00.05.05:404][949]LogBlueprintUserMessages: [PlayerCharacter_C_0] 112
+[2021.01.31-00.05.07:305][ 79]LogBlueprintUserMessages: [PlayerCharacter_C_0] 113
+[2021.01.31-00.05.08:788][178]LogBlueprintUserMessages: [PlayerCharacter_C_0] 114
+[2021.01.31-00.05.12:083][400]LogBlueprintUserMessages: [PlayerCharacter_C_0] 115
+[2021.01.31-00.05.14:092][533]LogBlueprintUserMessages: [PlayerCharacter_C_0] 116
+[2021.01.31-00.05.15:555][630]LogBlueprintUserMessages: [PlayerCharacter_C_0] 117
+[2021.01.31-00.05.16:804][712]LogBlueprintUserMessages: [PlayerCharacter_C_0] 118
+[2021.01.31-00.05.26:930][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.05.26:930][399]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.05.26:932][399]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.05.26:948][399]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.05.26:949][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.05.26:960][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.05.26:988][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.05.26:994][399]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.05.26:997][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.05.26:999][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.05.27:025][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.31-00.05.27:059][400]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.01.31-00.05.30:006][631]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.06.23:121][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.06.23:200][463]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DA1F401944D7D76478E1A27AA6909881B.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.06.23:219][463]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.06.23:219][463]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.06.24:452][523]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.06.24:467][523]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.06.24:472][523]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.06.24:473][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.06.30:482][946]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.06.32:524][130]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.06.35:070][357]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.06.36:843][497]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.06.36:854][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.06.36:854][497]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:06:36)
+[2021.01.31-00.06.36:854][497]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.06.36:856][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002203s)
+[2021.01.31-00.06.36:857][497]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.06.36:858][497]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.01.31-00.06.36:858][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003453s)
+[2021.01.31-00.06.36:880][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.01.31-00.06.36:883][497]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.06.36:883][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.06.36:883][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.06.36:884][497]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.06.36:884][497]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.06.36:896][497]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.06.36:896][497]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.06.36:920][497]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.06.36:921][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.06.36:921][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.06.36:921][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.06.36:923][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.06.36:923][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.06.36:923][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.06.36:939][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.06.36:939][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.06.36:939][497]LogInit: FAudioDevice initialized.
+[2021.01.31-00.06.36:939][497]LogAudio: Display: Audio Device (ID: 21) registered with world 'Poziom_4'.
+[2021.01.31-00.06.36:997][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.06.36:997][497]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.06.37:001][497]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.06.37
+[2021.01.31-00.06.37:001][497]LogWorld: Bringing up level for play took: 0.003631
+[2021.01.31-00.06.37:002][497]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.01.31-00.06.37:015][497]PIE: Server logged in
+[2021.01.31-00.06.37:018][497]PIE: Play in editor total start time 0,17 seconds.
+[2021.01.31-00.06.39:337][640]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.06.40:516][716]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.06.41:509][783]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.06.43:807][935]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.06.45:033][ 18]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.06.46:534][117]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.06.47:485][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.06.47:485][181]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.06.47:486][181]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.06.47:504][181]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.06.47:505][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.06.47:519][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.06.47:535][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.06.47:541][181]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.06.47:542][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.06.47:544][181]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.06.47:570][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-00.06.47:610][182]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.01.31-00.06.49:886][364]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.07.19:101][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.07.19:179][971]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D1283C01349C4277EA6D86EA47246407B.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.07.19:200][971]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.07.19:200][971]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.07.20:383][ 33]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.07.20:394][ 33]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.07.20:403][ 33]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.07.20:403][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.07.22:692][229]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.07.23:939][342]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.07.25:289][466]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.07.26:540][549]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.07.26:554][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.07.26:554][549]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:07:26)
+[2021.01.31-00.07.26:554][549]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.07.26:557][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003183s)
+[2021.01.31-00.07.26:560][549]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.07.26:560][549]LogPlayLevel: PIE: World Init took: (0.002809s)
+[2021.01.31-00.07.26:560][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.006288s)
+[2021.01.31-00.07.26:570][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.31-00.07.26:573][549]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.07.26:573][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.07.26:573][549]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.07.26:573][549]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.07.26:585][549]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.07.26:585][549]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.07.26:610][549]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.07.26:610][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.07.26:610][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.07.26:610][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.07.26:610][549]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.07.26:610][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.07.26:611][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.07.26:631][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.07.26:631][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.07.26:631][549]LogInit: FAudioDevice initialized.
+[2021.01.31-00.07.26:631][549]LogAudio: Display: Audio Device (ID: 22) registered with world 'Poziom_4'.
+[2021.01.31-00.07.26:679][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.07.26:679][549]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.07.26:683][549]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.07.26
+[2021.01.31-00.07.26:683][549]LogWorld: Bringing up level for play took: 0.003648
+[2021.01.31-00.07.26:684][549]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.01.31-00.07.26:694][549]PIE: Server logged in
+[2021.01.31-00.07.26:697][549]PIE: Play in editor total start time 0,149 seconds.
+[2021.01.31-00.07.30:635][778]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.07.32:783][912]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.07.34:249][  6]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.07.35:177][ 65]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.07.36:137][126]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.07.37:636][222]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.07.38:619][284]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.31-00.07.39:872][361]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.31-00.08.24:880][141]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.31-00.08.27:261][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.08.27:261][296]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.08.27:262][296]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.08.27:276][296]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.08.27:278][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.08.27:291][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.08.27:309][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.08.27:316][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.08.27:316][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.08.27:317][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.08.27:347][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.31-00.08.27:376][297]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.01.31-00.08.29:400][470]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.08.29:414][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.08.29:415][470]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:08:29)
+[2021.01.31-00.08.29:415][470]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.08.29:417][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2021.01.31-00.08.29:418][470]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.08.29:418][470]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2021.01.31-00.08.29:418][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003208s)
+[2021.01.31-00.08.29:429][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.31-00.08.29:429][470]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.01.31-00.08.29:429][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.08.29:430][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.08.29:430][470]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.08.29:430][470]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.08.29:440][470]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.08.29:440][470]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.08.29:462][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.08.29:462][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.08.29:479][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.08.29:479][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.08.29:479][470]LogInit: FAudioDevice initialized.
+[2021.01.31-00.08.29:479][470]LogAudio: Display: Audio Device (ID: 23) registered with world 'Poziom_4'.
+[2021.01.31-00.08.29:526][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.08.29:526][470]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.08.29:530][470]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.08.29
+[2021.01.31-00.08.29:530][470]LogWorld: Bringing up level for play took: 0.003506
+[2021.01.31-00.08.29:530][470]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.01.31-00.08.29:539][470]PIE: Server logged in
+[2021.01.31-00.08.29:542][470]PIE: Play in editor total start time 0,133 seconds.
+[2021.01.31-00.08.32:070][611]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.08.33:545][704]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.08.40:596][148]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.08.42:204][253]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.08.43:083][313]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.08.43:813][362]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.08.44:504][408]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.31-00.08.45:203][455]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.31-00.08.45:979][507]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.31-00.08.46:678][552]LogBlueprintUserMessages: [PlayerCharacter_C_0] 10
+[2021.01.31-00.08.48:477][664]LogBlueprintUserMessages: [PlayerCharacter_C_0] 11
+[2021.01.31-00.08.50:246][780]LogBlueprintUserMessages: [PlayerCharacter_C_0] 12
+[2021.01.31-00.08.51:082][837]LogBlueprintUserMessages: [PlayerCharacter_C_0] 13
+[2021.01.31-00.08.51:861][889]LogBlueprintUserMessages: [PlayerCharacter_C_0] 14
+[2021.01.31-00.08.52:553][934]LogBlueprintUserMessages: [PlayerCharacter_C_0] 15
+[2021.01.31-00.08.55:929][144]LogBlueprintUserMessages: [PlayerCharacter_C_0] 16
+[2021.01.31-00.08.58:952][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.08.58:952][333]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.08.58:952][333]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.08.58:973][333]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.08.58:975][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.08.58:990][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.08.59:004][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.08.59:013][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.08.59:014][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.08.59:050][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.31-00.08.59:092][334]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.01.31-00.09.03:132][611]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.10.15:832][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.31-00.10.15:834][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_4" FILE="../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Poziom_4_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.31-00.10.15:840][976]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_4_Auto48D151B9D4D84E0F0DF977A953865B2EF.tmp' to '../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/Maps/Poziom_4_Auto4.umap'
+[2021.01.31-00.10.15:841][976]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/Poziom_4' took 0.018
+[2021.01.31-00.10.15:841][976]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2021.01.31-00.15.00:800][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.15.01:231][792]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DF0EE523E4BDD033027C3749C6AEE0C4B.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.15.01:251][792]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.15.01:251][792]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.15.04:530][974]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.15.04:548][974]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.15.04:553][974]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.15.04:553][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.15.07:783][183]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.15.07:796][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.15.07:796][183]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:15:07)
+[2021.01.31-00.15.07:796][183]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.15.07:798][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002033s)
+[2021.01.31-00.15.07:799][183]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.15.07:799][183]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2021.01.31-00.15.07:799][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003521s)
+[2021.01.31-00.15.07:816][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.31-00.15.07:821][183]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.01.31-00.15.07:821][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.15.07:821][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.15.07:822][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.15.07:822][183]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.15.07:822][183]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.15.07:832][183]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.15.07:832][183]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.15.07:855][183]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.15.07:855][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.15.07:856][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.15.07:856][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.15.07:856][183]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.15.07:856][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.15.07:856][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.15.07:872][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.15.07:872][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.15.07:872][183]LogInit: FAudioDevice initialized.
+[2021.01.31-00.15.07:872][183]LogAudio: Display: Audio Device (ID: 24) registered with world 'Poziom_4'.
+[2021.01.31-00.15.07:927][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.15.07:928][183]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.15.07:932][183]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.15.07
+[2021.01.31-00.15.07:932][183]LogWorld: Bringing up level for play took: 0.003915
+[2021.01.31-00.15.07:933][183]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.01.31-00.15.07:943][183]PIE: Server logged in
+[2021.01.31-00.15.07:945][183]PIE: Play in editor total start time 0,156 seconds.
+[2021.01.31-00.15.11:201][366]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.15.13:232][492]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.15.14:663][581]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.15.16:566][702]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.15.23:297][151]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.15.24:691][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.15.24:691][238]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.15.24:691][238]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.15.24:710][238]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.15.24:711][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.15.24:729][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.15.24:744][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.15.24:749][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.15.24:750][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.15.24:751][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.15.24:779][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-00.15.24:818][239]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.01.31-00.15.27:932][440]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.15.56:096][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.15.56:199][959]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DD21371A444B628B625362B805FB08AA9.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.15.56:218][959]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.15.56:218][959]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.15.56:858][987]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.15.56:878][987]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.15.56:883][987]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.15.56:883][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.15.57:783][ 60]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.15.57:796][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.15.57:796][ 60]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:15:57)
+[2021.01.31-00.15.57:797][ 60]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.15.57:798][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001859s)
+[2021.01.31-00.15.57:799][ 60]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.15.57:800][ 60]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.01.31-00.15.57:800][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003100s)
+[2021.01.31-00.15.57:813][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.01.31-00.15.57:816][ 60]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.15.57:816][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.15.57:816][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.15.57:817][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.15.57:817][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.15.57:828][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.15.57:828][ 60]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.15.57:849][ 60]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.15.57:850][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.15.57:867][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.15.57:867][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.15.57:867][ 60]LogInit: FAudioDevice initialized.
+[2021.01.31-00.15.57:867][ 60]LogAudio: Display: Audio Device (ID: 25) registered with world 'Poziom_4'.
+[2021.01.31-00.15.57:924][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.15.57:924][ 60]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.15.57:929][ 60]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.15.57
+[2021.01.31-00.15.57:929][ 60]LogWorld: Bringing up level for play took: 0.004402
+[2021.01.31-00.15.57:929][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.01.31-00.15.57:936][ 60]PIE: Server logged in
+[2021.01.31-00.15.57:939][ 60]PIE: Play in editor total start time 0,149 seconds.
+[2021.01.31-00.16.02:061][302]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.16.03:631][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.16.03:631][401]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.16.03:632][401]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.16.03:650][401]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.16.03:652][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.16.03:667][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.16.03:681][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.16.03:689][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.16.03:691][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.16.03:692][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.16.03:717][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.31-00.16.03:760][402]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.01.31-00.16.05:696][538]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.16.12:430][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.16.12:520][876]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_DF604EB7443876246EB9699929D06662C.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.16.12:547][876]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.16.12:547][876]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.16.13:217][914]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.16.13:229][914]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.16.13:235][914]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.16.13:235][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.16.14:986][ 41]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.16.14:998][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.16.14:998][ 41]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:16:14)
+[2021.01.31-00.16.14:999][ 41]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.16.15:001][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002646s)
+[2021.01.31-00.16.15:003][ 41]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.16.15:004][ 41]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2021.01.31-00.16.15:004][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.005054s)
+[2021.01.31-00.16.15:014][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.01.31-00.16.15:017][ 41]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.16.15:017][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.16.15:017][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.16.15:018][ 41]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.16.15:018][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.16.15:029][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.16.15:029][ 41]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.16.15:051][ 41]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.16.15:052][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.16.15:069][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.16.15:070][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.16.15:070][ 41]LogInit: FAudioDevice initialized.
+[2021.01.31-00.16.15:070][ 41]LogAudio: Display: Audio Device (ID: 26) registered with world 'Poziom_4'.
+[2021.01.31-00.16.15:124][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.16.15:124][ 41]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.16.15:129][ 41]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.16.15
+[2021.01.31-00.16.15:129][ 41]LogWorld: Bringing up level for play took: 0.004137
+[2021.01.31-00.16.15:129][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.01.31-00.16.15:139][ 41]PIE: Server logged in
+[2021.01.31-00.16.15:141][ 41]PIE: Play in editor total start time 0,149 seconds.
+[2021.01.31-00.16.17:426][168]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.16.19:429][301]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.16.20:185][352]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.16.20:921][401]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.16.21:528][440]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.16.22:016][472]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.16.22:748][519]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.31-00.16.24:301][616]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.31-00.16.26:594][762]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.31-00.16.27:528][823]LogBlueprintUserMessages: [PlayerCharacter_C_0] 10
+[2021.01.31-00.16.28:500][886]LogBlueprintUserMessages: [PlayerCharacter_C_0] 11
+[2021.01.31-00.16.30:079][986]LogBlueprintUserMessages: [PlayerCharacter_C_0] 12
+[2021.01.31-00.16.31:493][ 77]LogBlueprintUserMessages: [PlayerCharacter_C_0] 13
+[2021.01.31-00.16.33:700][219]LogBlueprintUserMessages: [PlayerCharacter_C_0] 14
+[2021.01.31-00.16.34:508][272]LogBlueprintUserMessages: [PlayerCharacter_C_0] 15
+[2021.01.31-00.16.35:205][317]LogBlueprintUserMessages: [PlayerCharacter_C_0] 16
+[2021.01.31-00.16.36:103][375]LogBlueprintUserMessages: [PlayerCharacter_C_0] 17
+[2021.01.31-00.16.37:066][437]LogBlueprintUserMessages: [PlayerCharacter_C_0] 18
+[2021.01.31-00.16.39:009][562]LogBlueprintUserMessages: [PlayerCharacter_C_0] 19
+[2021.01.31-00.16.39:933][621]LogBlueprintUserMessages: [PlayerCharacter_C_0] 20
+[2021.01.31-00.16.40:810][678]LogBlueprintUserMessages: [PlayerCharacter_C_0] 21
+[2021.01.31-00.16.42:135][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.16.42:135][765]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.16.42:135][765]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.16.42:155][765]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.16.42:157][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.16.42:168][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.16.42:183][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.16.42:193][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.16.42:194][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.16.42:195][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.16.42:227][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.31-00.16.42:273][766]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.01.31-00.16.53:528][632]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.18.25:091][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.18.25:177][336]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D6A164840477FA4D5D7793ABBBA0E37A1.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.18.25:194][336]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.18.25:194][336]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.18.27:361][451]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.18.27:372][451]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.18.27:378][451]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.18.27:378][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.18.47:373][707]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.21.19:316][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.31-00.21.19:320][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/Poziom_4' took 0.017
+[2021.01.31-00.21.19:320][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/LevelAssets/TileMaps/Poziom_D] ([1] browsable assets)...
+[2021.01.31-00.21.19:320][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/LevelAssets/TileMaps/Poziom_D]
+[2021.01.31-00.21.19:402][297]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D_Auto506DEC71B4367E1B4E01D08BB1C2433C3.tmp' to '../../../../../../Users/GitHub/KrakJam/Saved/Autosaves/Game/Levels/LevelAssets/TileMaps/Poziom_D_Auto5.uasset'
+[2021.01.31-00.21.19:402][297]LogFileHelpers: Auto-saving content packages took 0.082
+[2021.01.31-00.23.13:513][ 77]Cmd: TRANSACTION UNDO
+[2021.01.31-00.23.13:513][ 77]LogEditorTransaction: Undo Tile Painting
+[2021.01.31-00.23.40:076][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_D" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset" SILENT=true
+[2021.01.31-00.23.40:211][ 92]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_D57A5ED224D8B5D593FD6949334F70694.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_D.uasset'
+[2021.01.31-00.23.40:228][ 92]AssetCheck: New page: Asset Save: Poziom_D
+[2021.01.31-00.23.40:228][ 92]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_D.Poziom_D
+[2021.01.31-00.23.41:327][135]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.23.41:340][135]LogSlate: Window 'Poziom_D' being destroyed
+[2021.01.31-00.23.41:346][135]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.23.41:346][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.23.49:376][624]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.23.53:840][910]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.23.56:591][ 74]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.23.58:140][167]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.23.59:624][256]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.01.31-00.24.02:264][452]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.31-00.24.02:278][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-00.24.02:278][452]PIE: New page: PIE session: Poziom_4 (31 sty 2021, 02:24:02)
+[2021.01.31-00.24.02:278][452]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.24.02:280][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002000s)
+[2021.01.31-00.24.02:281][452]LogAIModule: Creating AISystem for world Poziom_4
+[2021.01.31-00.24.02:281][452]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2021.01.31-00.24.02:281][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/Poziom_4.Poziom_4 to /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 (0.003275s)
+[2021.01.31-00.24.02:293][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.01.31-00.24.02:299][452]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-00.24.02:299][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-00.24.02:299][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-00.24.02:300][452]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-00.24.02:300][452]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-00.24.02:311][452]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-00.24.02:311][452]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-00.24.02:337][452]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.01.31-00.24.02:337][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-00.24.02:337][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-00.24.02:337][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-00.24.02:338][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-00.24.02:338][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-00.24.02:338][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-00.24.02:356][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-00.24.02:356][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-00.24.02:356][452]LogInit: FAudioDevice initialized.
+[2021.01.31-00.24.02:356][452]LogAudio: Display: Audio Device (ID: 27) registered with world 'Poziom_4'.
+[2021.01.31-00.24.02:411][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.24.02:411][452]LogLoad: Game class is 'MyGameMode_C'
+[2021.01.31-00.24.02:416][452]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_Poziom_4.Poziom_4 up for play (max tick rate 0) at 2021.01.31-01.24.02
+[2021.01.31-00.24.02:416][452]LogWorld: Bringing up level for play took: 0.004289
+[2021.01.31-00.24.02:416][452]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.01.31-00.24.02:429][452]PIE: Server logged in
+[2021.01.31-00.24.02:430][452]PIE: Play in editor total start time 0,159 seconds.
+[2021.01.31-00.24.05:298][624]LogBlueprintUserMessages: [PlayerCharacter_C_0] 1
+[2021.01.31-00.24.07:358][753]LogBlueprintUserMessages: [PlayerCharacter_C_0] 2
+[2021.01.31-00.24.08:926][853]LogBlueprintUserMessages: [PlayerCharacter_C_0] 3
+[2021.01.31-00.24.09:997][922]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4
+[2021.01.31-00.24.10:815][973]LogBlueprintUserMessages: [PlayerCharacter_C_0] 5
+[2021.01.31-00.24.14:358][197]LogBlueprintUserMessages: [PlayerCharacter_C_0] 6
+[2021.01.31-00.24.16:727][346]LogBlueprintUserMessages: [PlayerCharacter_C_0] 7
+[2021.01.31-00.24.17:407][390]LogBlueprintUserMessages: [PlayerCharacter_C_0] 8
+[2021.01.31-00.24.19:475][525]LogBlueprintUserMessages: [PlayerCharacter_C_0] 9
+[2021.01.31-00.24.21:790][671]LogBlueprintUserMessages: [PlayerCharacter_C_0] 10
+[2021.01.31-00.24.22:511][717]LogBlueprintUserMessages: [PlayerCharacter_C_0] 11
+[2021.01.31-00.24.22:922][742]LogBlueprintUserMessages: [PlayerCharacter_C_0] 12
+[2021.01.31-00.24.23:597][784]LogBlueprintUserMessages: [PlayerCharacter_C_0] 13
+[2021.01.31-00.24.27:606][ 42]LogBlueprintUserMessages: [PlayerCharacter_C_0] 14
+[2021.01.31-00.24.32:124][331]LogBlueprintUserMessages: [PlayerCharacter_C_0] 15
+[2021.01.31-00.24.34:023][454]LogBlueprintUserMessages: [PlayerCharacter_C_0] 16
+[2021.01.31-00.24.35:510][552]LogBlueprintUserMessages: [PlayerCharacter_C_0] 17
+[2021.01.31-00.24.43:858][105]LogBlueprintUserMessages: [PlayerCharacter_C_0] 18
+[2021.01.31-00.24.44:978][181]LogBlueprintUserMessages: [PlayerCharacter_C_0] 19
+[2021.01.31-00.24.45:837][237]LogBlueprintUserMessages: [PlayerCharacter_C_0] 20
+[2021.01.31-00.24.46:807][301]LogBlueprintUserMessages: [PlayerCharacter_C_0] 21
+[2021.01.31-00.24.47:910][375]LogBlueprintUserMessages: [PlayerCharacter_C_0] 22
+[2021.01.31-00.24.49:021][448]LogBlueprintUserMessages: [PlayerCharacter_C_0] 23
+[2021.01.31-00.24.49:907][508]LogBlueprintUserMessages: [PlayerCharacter_C_0] 24
+[2021.01.31-00.24.50:696][561]LogBlueprintUserMessages: [PlayerCharacter_C_0] 25
+[2021.01.31-00.24.52:510][679]LogBlueprintUserMessages: [PlayerCharacter_C_0] 26
+[2021.01.31-00.24.54:161][793]LogBlueprintUserMessages: [PlayerCharacter_C_0] 27
+[2021.01.31-00.24.54:907][842]LogBlueprintUserMessages: [PlayerCharacter_C_0] 28
+[2021.01.31-00.24.56:133][923]LogBlueprintUserMessages: [PlayerCharacter_C_0] 29
+[2021.01.31-00.24.57:040][983]LogBlueprintUserMessages: [PlayerCharacter_C_0] 30
+[2021.01.31-00.24.57:897][ 38]LogBlueprintUserMessages: [PlayerCharacter_C_0] 31
+[2021.01.31-00.24.58:707][ 89]LogBlueprintUserMessages: [PlayerCharacter_C_0] 32
+[2021.01.31-00.24.59:574][143]LogBlueprintUserMessages: [PlayerCharacter_C_0] 33
+[2021.01.31-00.25.00:928][227]LogBlueprintUserMessages: [PlayerCharacter_C_0] 34
+[2021.01.31-00.25.02:431][321]LogBlueprintUserMessages: [PlayerCharacter_C_0] 35
+[2021.01.31-00.25.03:290][376]LogBlueprintUserMessages: [PlayerCharacter_C_0] 36
+[2021.01.31-00.25.04:377][445]LogBlueprintUserMessages: [PlayerCharacter_C_0] 37
+[2021.01.31-00.25.05:310][506]LogBlueprintUserMessages: [PlayerCharacter_C_0] 38
+[2021.01.31-00.25.06:900][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-00.25.06:900][616]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_Poziom_4
+[2021.01.31-00.25.06:901][616]LogSlate: Window 'KrakJam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.31-00.25.06:917][616]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.25.06:919][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.25.06:937][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-00.25.06:955][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.25.06:960][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.25.06:961][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.25.06:962][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-00.25.06:990][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.31-00.25.07:020][617]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.01.31-00.25.09:441][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_4" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-00.25.09:449][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.31-00.25.09:457][799]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_430CDFBCE43887328F5DBB1A1CC8EF882.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_4.umap'
+[2021.01.31-00.25.09:508][799]AssetCheck: New page: Asset Save: Poziom_4
+[2021.01.31-00.25.09:508][799]LogContentValidation: Display: Validating World /Game/Levels/Maps/Poziom_4.Poziom_4
+[2021.01.31-00.25.32:891][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.31-00.25.34:752][552]LogSlate: Window 'Save Content' being destroyed
+[2021.01.31-00.25.34:792][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_5" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-00.25.34:808][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.01.31-00.25.34:820][552]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_51A38318C42CA808EAAB36691BFD98BE3.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_5.umap'
+[2021.01.31-00.25.34:823][552]LogFileHelpers: Saving map 'Poziom_5' took 0.031
+[2021.01.31-00.25.34:857][552]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Maps/Poziom_5.Poziom_5
+[2021.01.31-00.25.34:857][552]Cmd: MAP LOAD FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.31-00.25.34:857][552]LightingResults: New page: Lighting Build
+[2021.01.31-00.25.34:857][552]LoadErrors: New page: Loading map: Poziom_5.umap
+[2021.01.31-00.25.34:859][552]LogWorld: UWorld::CleanupWorld for Poziom_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-00.25.34:859][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-00.25.34:859][552]MapCheck: New page: Map Check
+[2021.01.31-00.25.34:859][552]LightingResults: New page: Lighting Build
+[2021.01.31-00.25.34:870][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-00.25.34:880][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.01.31-00.25.34:885][552]LogAudio: Display: Audio Device (ID: 1) registered with world 'Poziom_5'.
+[2021.01.31-00.25.34:890][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-00.25.34:890][552]LogAIModule: Creating AISystem for world Poziom_5
+[2021.01.31-00.25.34:905][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.31-00.25.34:911][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-00.25.34:911][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.01.31-00.25.34:911][552]LogFileHelpers: Loading map 'Poziom_5' took 0.054
+[2021.01.31-00.25.34:933][552]AssetCheck: New page: Asset Save: Poziom_5
+[2021.01.31-00.25.34:933][552]LogContentValidation: Display: Validating World /Game/Levels/Maps/Poziom_5.Poziom_5
+[2021.01.31-00.25.41:948][961]Cmd: DELETE
+[2021.01.31-00.25.41:948][961]Cmd: ACTOR DELETE
+[2021.01.31-00.25.41:957][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.01.31-00.25.41:958][961]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2021.01.31-00.25.49:144][390]Cmd: DELETE
+[2021.01.31-00.25.49:144][390]Cmd: ACTOR DELETE
+[2021.01.31-00.25.49:149][390]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-00.25.49:154][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.31-00.25.49:155][390]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.01.31-00.25.50:019][441]Cmd: DELETE
+[2021.01.31-00.25.50:019][441]Cmd: ACTOR DELETE
+[2021.01.31-00.25.50:021][441]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-00.25.50:027][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.01.31-00.25.50:027][441]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.01.31-00.25.50:657][478]Cmd: DELETE
+[2021.01.31-00.25.50:657][478]Cmd: ACTOR DELETE
+[2021.01.31-00.25.50:658][478]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-00.25.50:666][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.31-00.25.50:667][478]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.01.31-00.25.51:275][514]Cmd: DELETE
+[2021.01.31-00.25.51:275][514]Cmd: ACTOR DELETE
+[2021.01.31-00.25.51:276][514]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-00.25.51:285][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.01.31-00.25.51:286][514]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.01.31-00.25.51:927][552]Cmd: DELETE
+[2021.01.31-00.25.51:927][552]Cmd: ACTOR DELETE
+[2021.01.31-00.25.51:928][552]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.01.31-00.25.51:937][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.31-00.25.51:937][552]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.01.31-00.25.52:648][594]Cmd: DELETE
+[2021.01.31-00.25.52:648][594]Cmd: ACTOR DELETE
+[2021.01.31-00.25.52:650][594]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2021.01.31-00.25.52:657][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.31-00.25.52:657][594]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.01.31-00.25.57:162][864]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Poziom_D)
+[2021.01.31-00.25.59:981][ 30]Cmd: DELETE
+[2021.01.31-00.25.59:981][ 30]Cmd: ACTOR DELETE
+[2021.01.31-00.25.59:983][ 30]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2021.01.31-00.25.59:991][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.31-00.25.59:992][ 30]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.01.31-00.28.38:299][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/Poziom_5" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.31-00.28.38:306][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.31-00.28.38:315][231]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_55D8698B7405097BF2BA61CBFADB9B010.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/Maps/Poziom_5.umap'
+[2021.01.31-00.28.38:321][231]LogFileHelpers: Saving map 'Poziom_5' took 0.023
+[2021.01.31-00.28.38:333][231]AssetCheck: New page: Asset Save: Poziom_5
+[2021.01.31-00.28.38:333][231]LogContentValidation: Display: Validating World /Game/Levels/Maps/Poziom_5.Poziom_5
+[2021.01.31-00.28.56:533][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelAssets/TileMaps/Poziom_E" FILE="../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_E.uasset" SILENT=true
+[2021.01.31-00.28.56:682][307]LogSavePackage: Moving '../../../../../../Users/GitHub/KrakJam/Saved/Poziom_EF9607C7B4AC6A565B02A3AB61ADBF48E.tmp' to '../../../../../../Users/GitHub/KrakJam/Content/Levels/LevelAssets/TileMaps/Poziom_E.uasset'
+[2021.01.31-00.28.56:702][307]AssetCheck: New page: Asset Save: Poziom_E
+[2021.01.31-00.28.56:703][307]LogContentValidation: Display: Validating PaperTileMap /Game/Levels/LevelAssets/TileMaps/Poziom_E.Poziom_E
